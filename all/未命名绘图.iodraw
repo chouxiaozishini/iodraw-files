@@ -58,14 +58,14 @@
         <mxCell id="oqAy_akpZPkEhrCu4k9q-35" value="供应商管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="448.5" y="609" width="30" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oqAy_akpZPkEhrCu4k9q-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.509;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="oqAy_akpZPkEhrCu4k9q-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.509;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oqAy_akpZPkEhrCu4k9q-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="464.79" y="608" as="sourcePoint" />
-            <mxPoint x="465" y="584.45" as="targetPoint" />
+            <mxPoint x="463.29" y="609" as="sourcePoint" />
+            <mxPoint x="463.71100000000007" y="585.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oqAy_akpZPkEhrCu4k9q-37" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="433" y="326" width="50" height="535" as="geometry" />
+          <mxGeometry x="423" y="330.5" width="50" height="532" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
