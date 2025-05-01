@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17" pages="2">
   <diagram name="第四章" id="3b7DW6wrirqSFIrknnzy">
-    <mxGraphModel dx="805" dy="440" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="294" dy="444" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="oqAy_akpZPkEhrCu4k9q-39" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="156" y="609" width="30" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oqAy_akpZPkEhrCu4k9q-40" value="角色列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oqAy_akpZPkEhrCu4k9q-40" value="角&lt;div&gt;色&lt;/div&gt;&lt;div&gt;列&lt;/div&gt;&lt;div&gt;表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="609" width="30" height="90" as="geometry" />
         </mxCell>
       </root>
