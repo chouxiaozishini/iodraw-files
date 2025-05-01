@@ -37,6 +37,9 @@
         <mxCell id="oqAy_akpZPkEhrCu4k9q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oqAy_akpZPkEhrCu4k9q-19" target="oqAy_akpZPkEhrCu4k9q-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oqAy_akpZPkEhrCu4k9q-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
