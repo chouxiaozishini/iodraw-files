@@ -40,8 +40,8 @@
         <mxCell id="oqAy_akpZPkEhrCu4k9q-22" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="610.5" width="30" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oqAy_akpZPkEhrCu4k9q-23" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="620.5" width="30" height="90" as="geometry" />
+        <mxCell id="oqAy_akpZPkEhrCu4k9q-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610.5" width="30" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
