@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17" pages="2">
   <diagram name="第四章" id="3b7DW6wrirqSFIrknnzy">
-    <mxGraphModel dx="1150" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="419" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="438.5" y="528.5" width="50" height="113" as="geometry" />
         </mxCell>
         <mxCell id="oqAy_akpZPkEhrCu4k9q-1" value="管理员端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415.5" y="528.5" width="96" height="40" as="geometry" />
+          <mxGeometry x="415.5" y="520" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oqAy_akpZPkEhrCu4k9q-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="438.5" y="469.5" width="50" height="231" as="geometry" />
@@ -35,9 +35,6 @@
           <mxGeometry x="438.5" y="374" width="50" height="421" as="geometry" />
         </mxCell>
         <mxCell id="oqAy_akpZPkEhrCu4k9q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oqAy_akpZPkEhrCu4k9q-19" target="oqAy_akpZPkEhrCu4k9q-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oqAy_akpZPkEhrCu4k9q-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.234;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oqAy_akpZPkEhrCu4k9q-18" target="oqAy_akpZPkEhrCu4k9q-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
