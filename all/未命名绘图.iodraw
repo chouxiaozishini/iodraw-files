@@ -16,11 +16,11 @@
         <mxCell id="MRSRnPRvFSd822dNHuwG-28" value="后&lt;br&gt;&lt;div&gt;台&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="250" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oqAy_akpZPkEhrCu4k9q-1" value="管理员端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415.5" y="520" width="96" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="oqAy_akpZPkEhrCu4k9q-14" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="438.5" y="528.5" width="50" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="oqAy_akpZPkEhrCu4k9q-1" value="管理员端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="528.5" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oqAy_akpZPkEhrCu4k9q-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="438.5" y="469.5" width="50" height="231" as="geometry" />
