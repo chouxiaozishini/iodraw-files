@@ -519,6 +519,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0Xe8G1YGVZfLsAH5Lxmv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579.6700000000001" y="551.6725431743421" as="targetPoint" />
+            <mxPoint x="580" y="504" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-59" value="是否删除" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="483" y="388" width="193.34" height="116" as="geometry" />
         </mxCell>
