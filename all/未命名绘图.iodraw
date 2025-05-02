@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eg4u5nf12WLnr6NVwB_s" name="4.2.5">
-    <mxGraphModel dx="209" dy="313" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="292" dy="438" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,7 +538,7 @@
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.482;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="375" y="685.76" as="sourcePoint" />
+            <mxPoint x="375" y="688" as="sourcePoint" />
             <mxPoint x="577.696" y="596.004" as="targetPoint" />
             <Array as="points">
               <mxPoint x="579" y="688.76" />
