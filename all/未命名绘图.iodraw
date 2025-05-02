@@ -477,7 +477,7 @@
           <mxGeometry x="55" y="378" width="105" height="44" as="geometry" />
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="33" y="448" width="150" height="90" as="geometry" />
+          <mxGeometry x="50" y="456" width="126.67" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
