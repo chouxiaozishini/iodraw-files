@@ -206,7 +206,7 @@
           <mxGeometry x="484.5" y="1038" width="105" height="38" as="geometry" />
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-20" value="生成订单号和支付信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="78" y="683" width="242" height="60" as="geometry" />
+          <mxGeometry x="16.5" y="659" width="242" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
