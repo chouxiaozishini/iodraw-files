@@ -374,8 +374,16 @@
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-17" value="生成储存信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="215" y="506" width="150" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="cIbN7EmVMTAtjDZIlVU7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cIbN7EmVMTAtjDZIlVU7-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="650.7777608235679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-18" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;返回结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="583" width="105" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="cIbN7EmVMTAtjDZIlVU7-22" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;返回结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="593" width="105" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
