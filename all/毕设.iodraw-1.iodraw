@@ -1813,7 +1813,7 @@
             <mxPoint x="269" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IFDFO1Opq81262NlLeT8-8" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+        <mxCell id="IFDFO1Opq81262NlLeT8-8" value="管理" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="264" y="347" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
