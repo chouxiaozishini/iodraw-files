@@ -305,7 +305,7 @@
             <mxPoint x="141" y="754.5396437872023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WnXQVmfwoPzSvitWUNoQ-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WnXQVmfwoPzSvitWUNoQ-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;生成删除结果信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="657" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WnXQVmfwoPzSvitWUNoQ-17" target="WnXQVmfwoPzSvitWUNoQ-18">
