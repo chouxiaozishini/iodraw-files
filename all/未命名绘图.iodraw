@@ -230,8 +230,8 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-29" value="返回支付结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="16.5" y="857" width="242" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-30" value="模拟支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="75" y="956" width="120" height="60" as="geometry" />
+        <mxCell id="nbztOuZGgZvdvijXqAUD-30" value="生成支付结果信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="75" y="956" width="188" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
