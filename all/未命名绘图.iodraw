@@ -13,6 +13,12 @@
         <mxCell id="wFH28mfns6SB3MmuLmEv-4" value="支&lt;div&gt;付&lt;/div&gt;&lt;div&gt;生&lt;/div&gt;&lt;div&gt;成&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="293" width="30" height="108" as="geometry" />
         </mxCell>
+        <mxCell id="wFH28mfns6SB3MmuLmEv-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="351" y="273" width="28" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wFH28mfns6SB3MmuLmEv-6" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="332" y="339" width="28" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
