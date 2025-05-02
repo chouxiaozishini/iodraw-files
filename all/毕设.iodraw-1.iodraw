@@ -1162,7 +1162,7 @@
           <mxGeometry x="66" y="558" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YU474TvqyWw9EhsnCHrs-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品评价表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="510" width="183" height="60" as="geometry" />
+          <mxGeometry x="340" y="513" width="183" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YU474TvqyWw9EhsnCHrs-7" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;评论时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="433" width="171" height="80" as="geometry" />
@@ -1218,7 +1218,7 @@
             <mxPoint x="390" y="638" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YU474TvqyWw9EhsnCHrs-22" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;是否缺货&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YU474TvqyWw9EhsnCHrs-22" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;商品评价&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="650" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YU474TvqyWw9EhsnCHrs-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YU474TvqyWw9EhsnCHrs-6" target="YU474TvqyWw9EhsnCHrs-22">
