@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rgLrnj7AuV5F4qcNVdUO-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="306" y="173" width="51" height="30" as="geometry" />
+          <mxGeometry x="289.5" y="235" width="51" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wFH28mfns6SB3MmuLmEv-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="301" y="246" width="28" height="66" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="wFH28mfns6SB3MmuLmEv-6" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="301" y="166.75" width="28" height="224.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wFH28mfns6SB3MmuLmEv-7" value="支&lt;div&gt;付&lt;/div&gt;&lt;div&gt;生&lt;/div&gt;&lt;div&gt;成&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="303" width="30" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
