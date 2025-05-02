@@ -489,8 +489,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Z6egvQybNSEKzGqGXN0-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="14" y="435" width="60" height="30" as="geometry" />
+        <mxCell id="1Z6egvQybNSEKzGqGXN0-43" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="431" width="16" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
