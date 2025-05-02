@@ -478,8 +478,8 @@
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="11" y="399" as="targetPoint" />
-            <mxPoint x="50" y="487.0344827586207" as="sourcePoint" />
+            <mxPoint x="7" y="398" as="targetPoint" />
+            <mxPoint x="51" y="487.0344827586207" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
