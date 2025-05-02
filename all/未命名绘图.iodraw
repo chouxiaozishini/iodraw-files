@@ -7,8 +7,8 @@
         <mxCell id="rgLrnj7AuV5F4qcNVdUO-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="306" y="173" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wFH28mfns6SB3MmuLmEv-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=105;" vertex="1" parent="1">
-          <mxGeometry x="307" y="218" width="50" height="100" as="geometry" />
+        <mxCell id="wFH28mfns6SB3MmuLmEv-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="317" y="228" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
