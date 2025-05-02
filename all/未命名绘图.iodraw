@@ -120,7 +120,7 @@
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-28" value="返回修改结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="197" y="842" width="150" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="hZgoSmfHTw4sX5mRM7Qb-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hZgoSmfHTw4sX5mRM7Qb-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="212" y="918.9998218936012" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
