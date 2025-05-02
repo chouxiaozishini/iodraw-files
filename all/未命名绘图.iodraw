@@ -358,11 +358,6 @@
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-7" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;服务器接受上传请求并生成 存储路径&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="99.25" y="308" width="381.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cIbN7EmVMTAtjDZIlVU7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cIbN7EmVMTAtjDZIlVU7-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="288.5" y="501.88885498046875" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;将图片储存至指定路径&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166" y="409" width="245" height="60" as="geometry" />
         </mxCell>
