@@ -556,8 +556,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WDM4dtPnD_6QDY92niUn-1" value="商品广告牌id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WDM4dtPnD_6QDY92niUn-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品广告牌id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="353" width="171" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WDM4dtPnD_6QDY92niUn-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品广告牌id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="363" width="171" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
