@@ -244,7 +244,7 @@
             <mxPoint x="181" y="941.3333740234375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-33" value="生成订单号和支付信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="nbztOuZGgZvdvijXqAUD-33" value="更新订单状态为已支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="60" y="843" width="242" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-34" value="模拟支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
