@@ -1279,10 +1279,10 @@
         <mxCell id="2vBTdPyncm7zhdWfCzGo-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;采购id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="353" width="171" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2vBTdPyncm7zhdWfCzGo-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2vBTdPyncm7zhdWfCzGo-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;采购编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="453" width="171" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2vBTdPyncm7zhdWfCzGo-5" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2vBTdPyncm7zhdWfCzGo-5" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;进货数量&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="558" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2vBTdPyncm7zhdWfCzGo-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;采购表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
