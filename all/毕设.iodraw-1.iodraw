@@ -1858,7 +1858,7 @@
         <mxCell id="IFDFO1Opq81262NlLeT8-19" value="管理" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="486" y="263" width="53.33" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="IFDFO1Opq81262NlLeT8-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.005;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="IFDFO1Opq81262NlLeT8-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.015;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IFDFO1Opq81262NlLeT8-1" target="IFDFO1Opq81262NlLeT8-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="126" y="349" as="sourcePoint" />
             <mxPoint x="202" y="246" as="targetPoint" />
@@ -1866,8 +1866,8 @@
         </mxCell>
         <mxCell id="IFDFO1Opq81262NlLeT8-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.005;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="136" y="359" as="sourcePoint" />
-            <mxPoint x="212" y="256" as="targetPoint" />
+            <mxPoint x="328" y="405.5" as="sourcePoint" />
+            <mxPoint x="404" y="302.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
