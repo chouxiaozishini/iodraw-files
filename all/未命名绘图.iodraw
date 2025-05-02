@@ -205,8 +205,16 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-18" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484.5" y="1038" width="105" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="nbztOuZGgZvdvijXqAUD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nbztOuZGgZvdvijXqAUD-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="137.5" y="757.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-20" value="生成订单号和支付信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="16.5" y="659" width="242" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nbztOuZGgZvdvijXqAUD-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78" y="763" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
