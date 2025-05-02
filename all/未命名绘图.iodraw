@@ -539,7 +539,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-59" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="44" y="464" width="225.01" height="135" as="geometry" />
+          <mxGeometry x="469" y="387" width="225.01" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
