@@ -81,7 +81,7 @@
           <mxGeometry x="290" y="489" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-18" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="568" width="148" height="60" as="geometry" />
+          <mxGeometry x="320" y="558" width="148" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
