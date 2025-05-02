@@ -1552,7 +1552,7 @@
         <mxCell id="JTRmLm-GGV6kwKIo82nr-10" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;品牌描述&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="720" width="171" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JTRmLm-GGV6kwKIo82nr-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="JTRmLm-GGV6kwKIo82nr-10">
+        <mxCell id="JTRmLm-GGV6kwKIo82nr-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="JTRmLm-GGV6kwKIo82nr-10" source="JTRmLm-GGV6kwKIo82nr-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="246" y="530" as="sourcePoint" />
             <mxPoint x="141" y="478.5" as="targetPoint" />
