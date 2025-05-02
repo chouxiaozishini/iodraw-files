@@ -347,7 +347,7 @@
             <mxPoint x="290" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cIbN7EmVMTAtjDZIlVU7-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;用户添加商品至购物车&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cIbN7EmVMTAtjDZIlVU7-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;用户上传商品图片&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166" y="211" width="248" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cIbN7EmVMTAtjDZIlVU7-7">
