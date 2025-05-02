@@ -174,17 +174,11 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;不充足&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="278" width="63" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nbztOuZGgZvdvijXqAUD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nbztOuZGgZvdvijXqAUD-11" target="nbztOuZGgZvdvijXqAUD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加商品带购物车&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="347" width="197" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="436.5" y="474" as="sourcePoint" />
-            <mxPoint x="436.5" y="407" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="436.5" y="471" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
