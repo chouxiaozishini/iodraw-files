@@ -481,6 +481,11 @@
         <mxCell id="1Z6egvQybNSEKzGqGXN0-34" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="94" y="386" width="105" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="1Z6egvQybNSEKzGqGXN0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="146.505" y="625.2221883138022" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="34" y="454" width="225.01" height="135" as="geometry" />
         </mxCell>
@@ -499,7 +504,7 @@
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="376" y="465.22223917643237" as="targetPoint" />
+            <mxPoint x="376" y="477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-46" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;修改信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
