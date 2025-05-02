@@ -406,7 +406,11 @@
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445" y="315.3333740234375" as="targetPoint" />
+            <mxPoint x="445" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="272" />
+              <mxPoint x="446" y="272" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
