@@ -250,7 +250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GfIsa9t5Hh-SX28xAj0b" name="第 4 页">
-    <mxGraphModel dx="731" dy="1094" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="1287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
             <mxPoint x="263" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WnXQVmfwoPzSvitWUNoQ-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;用户添加商品至购物车&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WnXQVmfwoPzSvitWUNoQ-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;用户删除商品购物车&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="139" y="320" width="248" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WnXQVmfwoPzSvitWUNoQ-7">
