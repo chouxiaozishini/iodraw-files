@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eg4u5nf12WLnr6NVwB_s" name="第 6 页">
-    <mxGraphModel dx="1119" dy="438" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="292" dy="438" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -476,14 +476,14 @@
         <mxCell id="1Z6egvQybNSEKzGqGXN0-34" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="378" width="105" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="1Z6egvQybNSEKzGqGXN0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3" y="399" as="targetPoint" />
-            <mxPoint x="47" y="487.0344827586207" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="45" y="449" width="126.67" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="1Z6egvQybNSEKzGqGXN0-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="413" as="sourcePoint" />
+            <mxPoint x="114" y="363" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
