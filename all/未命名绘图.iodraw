@@ -213,11 +213,6 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-20" value="生成订单号和支付信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="16.5" y="659" width="242" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nbztOuZGgZvdvijXqAUD-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="848.0000610351562" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-22" value="模拟支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="75" y="758" width="120" height="60" as="geometry" />
         </mxCell>
