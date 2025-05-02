@@ -216,15 +216,21 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-22" value="模拟支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="75" y="758" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nbztOuZGgZvdvijXqAUD-25">
+        <mxCell id="nbztOuZGgZvdvijXqAUD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="147.5" y="668.666748046875" as="targetPoint" />
+            <mxPoint x="148" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbztOuZGgZvdvijXqAUD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nbztOuZGgZvdvijXqAUD-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="147.5" y="767.3333740234375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-25" value="生成订单号和支付信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="nbztOuZGgZvdvijXqAUD-29" value="生成订单号和支付信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="26.5" y="669" width="242" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-26" value="模拟支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="nbztOuZGgZvdvijXqAUD-30" value="模拟支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="85" y="768" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
