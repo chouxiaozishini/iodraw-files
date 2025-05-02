@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eg4u5nf12WLnr6NVwB_s" name="第 6 页">
-    <mxGraphModel dx="418" dy="625" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="609" dy="912" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,6 +416,10 @@
         <mxCell id="1Z6egvQybNSEKzGqGXN0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="449.0476422991071" y="306.80950055803567" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="278" />
+              <mxPoint x="449" y="278" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
