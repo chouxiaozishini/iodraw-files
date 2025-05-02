@@ -993,10 +993,10 @@
             <mxPoint x="382" y="523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1_Qg5mWdZMh-D_oDOzH-12" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品规格&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U1_Qg5mWdZMh-D_oDOzH-12" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;副标题&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="760" width="171" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U1_Qg5mWdZMh-D_oDOzH-13" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U1_Qg5mWdZMh-D_oDOzH-13" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品类别&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="660" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U1_Qg5mWdZMh-D_oDOzH-14" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;购买数量&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
