@@ -1929,6 +1929,9 @@
         <mxCell id="CKv8p-l2okJHnUUZYIKt-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKv8p-l2okJHnUUZYIKt-17" target="CKv8p-l2okJHnUUZYIKt-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CKv8p-l2okJHnUUZYIKt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKv8p-l2okJHnUUZYIKt-17" target="CKv8p-l2okJHnUUZYIKt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CKv8p-l2okJHnUUZYIKt-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="570" width="80" height="140" as="geometry" />
         </mxCell>
@@ -1939,6 +1942,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CKv8p-l2okJHnUUZYIKt-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKv8p-l2okJHnUUZYIKt-17" target="CKv8p-l2okJHnUUZYIKt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKv8p-l2okJHnUUZYIKt-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKv8p-l2okJHnUUZYIKt-17" target="CKv8p-l2okJHnUUZYIKt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
