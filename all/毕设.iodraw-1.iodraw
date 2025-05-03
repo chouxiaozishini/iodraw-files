@@ -1923,7 +1923,10 @@
         <mxCell id="CKv8p-l2okJHnUUZYIKt-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="570" width="80" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="CKv8p-l2okJHnUUZYIKt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.747;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKv8p-l2okJHnUUZYIKt-17" target="CKv8p-l2okJHnUUZYIKt-3">
+        <mxCell id="CKv8p-l2okJHnUUZYIKt-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.747;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKv8p-l2okJHnUUZYIKt-17" target="CKv8p-l2okJHnUUZYIKt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKv8p-l2okJHnUUZYIKt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKv8p-l2okJHnUUZYIKt-17" target="CKv8p-l2okJHnUUZYIKt-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
