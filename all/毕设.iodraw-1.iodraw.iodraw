@@ -270,11 +270,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnXQVmfwoPzSvitWUNoQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="272.6666259765625" as="targetPoint" />
+            <mxPoint x="270" y="284.6666259765625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="173" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnXQVmfwoPzSvitWUNoQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -282,7 +282,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;用户在购物车删除商品&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="146" y="274" width="248" height="50" as="geometry" />
+          <mxGeometry x="146" y="286" width="248" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
