@@ -2394,21 +2394,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cUTOKZJFdbHM_6es3pLl-24" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;简介&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="36" y="600" width="171" height="80" as="geometry" />
+          <mxGeometry x="26" y="770" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cUTOKZJFdbHM_6es3pLl-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUTOKZJFdbHM_6es3pLl-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="510" as="sourcePoint" />
-            <mxPoint x="320" y="530" as="targetPoint" />
+            <mxPoint x="220" y="680" as="sourcePoint" />
+            <mxPoint x="310" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cUTOKZJFdbHM_6es3pLl-26" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分类名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="36" y="692" width="171" height="80" as="geometry" />
+          <mxGeometry x="26" y="862" width="171" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cUTOKZJFdbHM_6es3pLl-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUTOKZJFdbHM_6es3pLl-26">
+        <mxCell id="cUTOKZJFdbHM_6es3pLl-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUTOKZJFdbHM_6es3pLl-26" target="cUTOKZJFdbHM_6es3pLl-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="602" as="sourcePoint" />
-            <mxPoint x="320" y="530" as="targetPoint" />
+            <mxPoint x="230" y="772" as="sourcePoint" />
+            <mxPoint x="310" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
