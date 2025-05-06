@@ -3442,7 +3442,7 @@
             <mxPoint x="263" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQJBPsw7BwIm_Tznz3ci-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQJBPsw7BwIm_Tznz3ci-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="412" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;创建账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
