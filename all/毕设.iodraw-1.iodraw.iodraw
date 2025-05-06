@@ -3418,7 +3418,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wkQzrJWyKWAwWA3-NiTB" name="登录流程图">
-    <mxGraphModel dx="203" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3444,12 +3444,6 @@
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="412" width="148" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HQJBPsw7BwIm_Tznz3ci-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="179" y="343" width="48" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HQJBPsw7BwIm_Tznz3ci-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;不存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="343" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加商品带购物车&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="412" width="197" height="60" as="geometry" />
@@ -3502,6 +3496,9 @@
             <mxPoint x="263" y="330" as="sourcePoint" />
             <mxPoint x="260" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HQJBPsw7BwIm_Tznz3ci-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
