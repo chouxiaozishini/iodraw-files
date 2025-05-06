@@ -3503,8 +3503,8 @@
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-18" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="919" width="105" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="HQJBPsw7BwIm_Tznz3ci-19" value="是否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="223" y="190" width="80" height="80" as="geometry" />
+        <mxCell id="HQJBPsw7BwIm_Tznz3ci-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="213" y="190" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
