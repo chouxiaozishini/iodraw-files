@@ -340,7 +340,7 @@
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-18" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90.5" y="833" width="105" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Khs9pUbV5FEeUdzW4fRz-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;购物车是否有该商品&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Khs9pUbV5FEeUdzW4fRz-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;购物车是否&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;有该商品&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="299" width="271" height="109" as="geometry" />
         </mxCell>
       </root>
