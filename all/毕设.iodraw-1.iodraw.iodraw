@@ -341,7 +341,7 @@
           <mxGeometry x="90.5" y="833" width="105" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Khs9pUbV5FEeUdzW4fRz-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;购物车是否有该商品&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="299" width="100" height="100" as="geometry" />
+          <mxGeometry x="200" y="299" width="271" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
