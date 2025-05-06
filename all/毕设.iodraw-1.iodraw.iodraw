@@ -62,7 +62,7 @@
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390.3333740234375" y="556.666748046875" as="targetPoint" />
-            <mxPoint x="263" y="476" as="sourcePoint" />
+            <mxPoint x="263" y="513" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-14" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-30" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="219.5" y="919" width="105" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="KOoBKHwKboquN8e2xBZ5-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="213" y="311" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
