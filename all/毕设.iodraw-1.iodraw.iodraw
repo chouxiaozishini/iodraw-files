@@ -53,19 +53,17 @@
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;用户添加商品至购物车&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="139" y="228" width="248" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hZgoSmfHTw4sX5mRM7Qb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hZgoSmfHTw4sX5mRM7Qb-11" edge="1">
+        <mxCell id="hZgoSmfHTw4sX5mRM7Qb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="137" y="557.3333740234375" as="targetPoint" />
+            <mxPoint x="263" y="476" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390.3333740234375" y="556.666748046875" as="targetPoint" />
-            <mxPoint x="263" y="488" as="sourcePoint" />
+            <mxPoint x="263" y="476" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="hZgoSmfHTw4sX5mRM7Qb-11" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;查询购物车是否有该商品&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="125.5" y="416" width="275" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-14" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69" y="558" width="148" height="60" as="geometry" />
