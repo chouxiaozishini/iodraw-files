@@ -3532,7 +3532,7 @@
           <mxGeometry x="204.75" y="595" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-29" value="重新登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="159" y="483" width="21" height="59" as="geometry" />
+          <mxGeometry x="183.75" y="483" width="21" height="59" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-31" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329.75" y="660" width="105" height="40" as="geometry" />
