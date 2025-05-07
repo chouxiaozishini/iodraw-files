@@ -1950,12 +1950,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-31" value="管理" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="193.75" y="486" width="46" height="28.5" as="geometry" />
+          <mxGeometry x="192" y="486" width="46" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;VIP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102" y="391.75" width="33" height="23" as="geometry" />
+          <mxGeometry x="328.5" y="535" width="33" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RZQZx5iWVdQciH7ohdaE-35" source="IFDFO1Opq81262NlLeT8-5">
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RZQZx5iWVdQciH7ohdaE-35" source="IFDFO1Opq81262NlLeT8-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="243" y="403.25" as="sourcePoint" />
             <mxPoint x="280" y="370.25" as="targetPoint" />
