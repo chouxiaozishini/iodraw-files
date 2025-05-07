@@ -3454,8 +3454,8 @@
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320.75" y="394" as="targetPoint" />
-            <mxPoint x="443.75" y="354" as="sourcePoint" />
+            <mxPoint x="318" y="390" as="targetPoint" />
+            <mxPoint x="441" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
