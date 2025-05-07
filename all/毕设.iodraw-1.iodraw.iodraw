@@ -3480,7 +3480,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-24" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-25" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="300" width="60" height="30" as="geometry" />
