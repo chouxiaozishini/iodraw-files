@@ -1907,8 +1907,8 @@
             <mxPoint x="323" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-20" value="查看" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="445.75" width="46" height="28.5" as="geometry" />
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-20" value="开通" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="192" y="447.75" width="46" height="28.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
