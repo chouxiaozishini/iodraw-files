@@ -3556,22 +3556,22 @@
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCgRs6AmG_4jNxmJbf61-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="319.75" y="458.42857142857133" as="targetPoint" />
+            <mxPoint x="317.88" y="439.42857142857133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wCgRs6AmG_4jNxmJbf61-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="261" y="390" width="117.5" height="47" as="geometry" />
+          <mxGeometry x="259.13" y="371" width="117.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="wCgRs6AmG_4jNxmJbf61-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCgRs6AmG_4jNxmJbf61-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="494.75" y="478.06669921875005" as="targetPoint" />
+            <mxPoint x="492.88" y="459.06669921875005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E9MXYnukGVQihRu5IPYw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCgRs6AmG_4jNxmJbf61-7" target="wCgRs6AmG_4jNxmJbf61-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wCgRs6AmG_4jNxmJbf61-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434.75" y="390" width="120" height="47" as="geometry" />
+          <mxGeometry x="432.88" y="371" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="wCgRs6AmG_4jNxmJbf61-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;是否已注册&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="230" width="157" height="100" as="geometry" />
@@ -3592,7 +3592,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wCgRs6AmG_4jNxmJbf61-14" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439.25" y="460" width="111" height="41" as="geometry" />
+          <mxGeometry x="437.38" y="441" width="111" height="41" as="geometry" />
         </mxCell>
         <mxCell id="E9MXYnukGVQihRu5IPYw-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="104" height="50" as="geometry" />
@@ -3601,22 +3601,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E9MXYnukGVQihRu5IPYw-9" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;验证信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439.25" y="520" width="111" height="41" as="geometry" />
+          <mxGeometry x="437.38" y="501" width="111" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-3" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285.75" y="460" width="68" height="32" as="geometry" />
+          <mxGeometry x="283.88" y="441" width="68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="E9MXYnukGVQihRu5IPYw-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="495" y="577" as="sourcePoint" />
-            <mxPoint x="474" y="599" as="targetPoint" />
+            <mxPoint x="493.13" y="558" as="sourcePoint" />
+            <mxPoint x="472.13" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;验证信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309.88" y="492" width="111" height="41" as="geometry" />
+          <mxGeometry x="308.01" y="473" width="111" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="568" y="230" width="10" height="130" as="geometry" />
+          <mxGeometry x="379" y="294" width="10" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
