@@ -1985,23 +1985,11 @@
             <mxPoint x="223" y="334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;订单状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254.5" y="608" width="56" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RZQZx5iWVdQciH7ohdaE-45" source="RZQZx5iWVdQciH7ohdaE-23">
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RZQZx5iWVdQciH7ohdaE-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="283" y="566.5" as="sourcePoint" />
-            <mxPoint x="137" y="312.75" as="targetPoint" />
+            <mxPoint x="282.5" y="570" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RZQZx5iWVdQciH7ohdaE-45" target="RZQZx5iWVdQciH7ohdaE-42">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="68" y="366.75" as="sourcePoint" />
-            <mxPoint x="157" y="332.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-45" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="259.5" y="570" width="46" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;供应商&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484.75" y="533" width="40.5" height="23" as="geometry" />
