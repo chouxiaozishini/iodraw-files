@@ -3522,6 +3522,12 @@
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-19" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="564" width="131" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.401;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yoF8KmJ-6tSJFE5IhfEH-19" target="HQJBPsw7BwIm_Tznz3ci-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-21" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486" y="574" width="131" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
