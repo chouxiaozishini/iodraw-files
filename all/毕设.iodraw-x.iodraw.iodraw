@@ -1613,6 +1613,11 @@
         <mxCell id="VTgISVkQGM_ETE7B5oQ2-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;验证信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437.38" y="501" width="111" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="VTgISVkQGM_ETE7B5oQ2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTgISVkQGM_ETE7B5oQ2-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="317.8799999999999" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VTgISVkQGM_ETE7B5oQ2-17" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;更新界面&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.78999999999996" y="441" width="120.18" height="49" as="geometry" />
         </mxCell>
@@ -1652,7 +1657,7 @@
           <mxGeometry x="618" y="489.5" width="21" height="64" as="geometry" />
         </mxCell>
         <mxCell id="VTgISVkQGM_ETE7B5oQ2-28" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253.63" y="523" width="123" height="44" as="geometry" />
+          <mxGeometry x="256.38" y="523" width="123" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
