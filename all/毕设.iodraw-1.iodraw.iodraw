@@ -1970,14 +1970,14 @@
         <mxCell id="RZQZx5iWVdQciH7ohdaE-35" value="发起" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="313" y="493" width="46" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RZQZx5iWVdQciH7ohdaE-39">
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RZQZx5iWVdQciH7ohdaE-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="453" y="503" as="sourcePoint" />
-            <mxPoint x="490" y="470" as="targetPoint" />
+            <mxPoint x="465" y="479" as="sourcePoint" />
+            <mxPoint x="499" y="481" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-39" value="开通" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="405" y="514.5" width="46" height="28.5" as="geometry" />
+          <mxGeometry x="414" y="525.5" width="46" height="28.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
