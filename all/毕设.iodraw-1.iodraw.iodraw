@@ -3519,6 +3519,11 @@
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;通过&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="216" y="564" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoF8KmJ-6tSJFE5IhfEH-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541.5" y="635.9333984375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-19" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="564" width="131" height="48" as="geometry" />
         </mxCell>
@@ -3526,7 +3531,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-21" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="574" width="131" height="48" as="geometry" />
+          <mxGeometry x="172" y="624" width="131" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
