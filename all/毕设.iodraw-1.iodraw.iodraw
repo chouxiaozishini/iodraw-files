@@ -1886,6 +1886,9 @@
         <mxCell id="RZQZx5iWVdQciH7ohdaE-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;商品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="375" width="33" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-6" value="查看" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="288" y="398" width="46" height="28.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
