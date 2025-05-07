@@ -1613,8 +1613,8 @@
         <mxCell id="VTgISVkQGM_ETE7B5oQ2-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;验证信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437.38" y="501" width="111" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="VTgISVkQGM_ETE7B5oQ2-17" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283.88" y="441" width="68" height="32" as="geometry" />
+        <mxCell id="VTgISVkQGM_ETE7B5oQ2-17" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;更新界面&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269.82" y="441" width="96.12" height="32" as="geometry" />
         </mxCell>
         <mxCell id="VTgISVkQGM_ETE7B5oQ2-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VTgISVkQGM_ETE7B5oQ2-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
