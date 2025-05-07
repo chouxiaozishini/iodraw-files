@@ -2003,7 +2003,7 @@
         <mxCell id="RZQZx5iWVdQciH7ohdaE-49" value="管理" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="482" y="493" width="46" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-50" value="采购商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-50" value="采购的商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="607" y="495.75" width="67.5" height="23" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.267;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RZQZx5iWVdQciH7ohdaE-53" source="IFDFO1Opq81262NlLeT8-1">
@@ -2217,7 +2217,10 @@
           <mxGeometry x="585.5" y="490" width="19" height="13.75" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-123" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="614" y="465" width="19" height="13.75" as="geometry" />
+          <mxGeometry x="502.5" y="519.25" width="19" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-124" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="624" y="475" width="19" height="13.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
