@@ -2087,6 +2087,12 @@
             <mxPoint x="373.0000000000002" y="346.4999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-70" value="包含" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="405" y="318" width="46" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-71" value="包含" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="348.5" y="318" width="46" height="28.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
