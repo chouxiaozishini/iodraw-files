@@ -3623,9 +3623,6 @@
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-3" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285.75" y="460" width="68" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;验证信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449.25" y="530" width="111" height="41" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
