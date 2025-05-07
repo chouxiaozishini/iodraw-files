@@ -1816,12 +1816,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QbW9FXR_PT36SAmTRSWW" name="总体er图">
-    <mxGraphModel dx="1210" dy="1094" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IFDFO1Opq81262NlLeT8-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="86" y="339" width="60" height="30" as="geometry" />
+          <mxGeometry x="296" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IFDFO1Opq81262NlLeT8-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="339" width="60" height="30" as="geometry" />
@@ -1879,12 +1879,6 @@
         </mxCell>
         <mxCell id="IFDFO1Opq81262NlLeT8-19" value="管理" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
           <mxGeometry x="486" y="263" width="53.33" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="IFDFO1Opq81262NlLeT8-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.015;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IFDFO1Opq81262NlLeT8-1" target="IFDFO1Opq81262NlLeT8-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="126" y="349" as="sourcePoint" />
-            <mxPoint x="202" y="246" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="IFDFO1Opq81262NlLeT8-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1.006;exitY=0.497;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="IFDFO1Opq81262NlLeT8-19" target="IFDFO1Opq81262NlLeT8-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
