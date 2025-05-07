@@ -3484,7 +3484,7 @@
             <mxPoint x="403" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQJBPsw7BwIm_Tznz3ci-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HQJBPsw7BwIm_Tznz3ci-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="313" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -3512,10 +3512,10 @@
           <mxGeometry x="271.25" y="540" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;失败&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="286" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="286" y="564" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;通过&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="216" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="216" y="564" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
