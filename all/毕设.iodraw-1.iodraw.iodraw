@@ -3548,13 +3548,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wCgRs6AmG_4jNxmJbf61-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCgRs6AmG_4jNxmJbf61-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="406" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wCgRs6AmG_4jNxmJbf61-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="346" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wCgRs6AmG_4jNxmJbf61-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
