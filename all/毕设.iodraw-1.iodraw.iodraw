@@ -1874,7 +1874,7 @@
             <mxPoint x="464" y="481" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;商品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;规格&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="273" width="33" height="23" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;品牌&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2075,7 +2075,7 @@
             <mxPoint x="313" y="439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;商品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;类型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="273" width="33" height="23" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-68" value="包含" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
