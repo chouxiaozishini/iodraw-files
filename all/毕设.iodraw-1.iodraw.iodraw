@@ -1883,8 +1883,8 @@
             <mxPoint x="482" y="461.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="374" width="33" height="23" as="geometry" />
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;商品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="377" width="33" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
