@@ -1911,12 +1911,12 @@
           <mxGeometry x="192" y="447.75" width="46" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-21" value="管理" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="358.5" y="457" width="46" height="28.5" as="geometry" />
+          <mxGeometry x="262.5" y="499" width="46" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RZQZx5iWVdQciH7ohdaE-21">
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RZQZx5iWVdQciH7ohdaE-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="309" y="472" as="sourcePoint" />
-            <mxPoint x="485" y="347" as="targetPoint" />
+            <mxPoint x="213" y="514" as="sourcePoint" />
+            <mxPoint x="389" y="389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
