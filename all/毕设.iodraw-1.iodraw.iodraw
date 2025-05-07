@@ -1868,6 +1868,9 @@
         <mxCell id="IFDFO1Opq81262NlLeT8-19" value="管理" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
           <mxGeometry x="486" y="263" width="53.33" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="314" y="435" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
