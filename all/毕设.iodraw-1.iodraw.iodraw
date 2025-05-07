@@ -3613,7 +3613,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373.5" y="594" width="97.5" height="32" as="geometry" />
+          <mxGeometry x="383.5" y="573" width="97.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="396.25" y="270.25" width="19.5" height="182" as="geometry" />
