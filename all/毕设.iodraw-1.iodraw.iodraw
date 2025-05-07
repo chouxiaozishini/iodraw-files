@@ -3520,6 +3520,9 @@
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-21" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293.75" y="595" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoF8KmJ-6tSJFE5IhfEH-26" target="HQJBPsw7BwIm_Tznz3ci-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-26" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登陆失败&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="168.75" y="595" width="105" height="40" as="geometry" />
         </mxCell>
