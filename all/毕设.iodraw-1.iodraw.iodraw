@@ -1821,7 +1821,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IFDFO1Opq81262NlLeT8-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="450.5" width="42" height="25" as="geometry" />
+          <mxGeometry x="444" y="450.5" width="42" height="25" as="geometry" />
         </mxCell>
         <mxCell id="IFDFO1Opq81262NlLeT8-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="266" y="450.5" width="33" height="23" as="geometry" />
@@ -1877,7 +1877,7 @@
             <mxPoint x="475" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZQZx5iWVdQciH7ohdaE-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.952;exitY=0.497;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="RZQZx5iWVdQciH7ohdaE-1" target="IFDFO1Opq81262NlLeT8-1">
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="RZQZx5iWVdQciH7ohdaE-1" target="IFDFO1Opq81262NlLeT8-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="402" y="461.76" as="sourcePoint" />
             <mxPoint x="482" y="461.76" as="targetPoint" />
