@@ -3470,7 +3470,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="71.5" y="370" width="148" height="60" as="geometry" />
+          <mxGeometry x="80.75" y="370" width="129.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQJBPsw7BwIm_Tznz3ci-11">
           <mxGeometry relative="1" as="geometry">
