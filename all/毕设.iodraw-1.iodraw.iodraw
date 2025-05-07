@@ -3467,9 +3467,9 @@
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="390" width="117.5" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQJBPsw7BwIm_Tznz3ci-11">
+        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQJBPsw7BwIm_Tznz3ci-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="539" y="480" as="targetPoint" />
+            <mxPoint x="531.5" y="478.06669921875005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;创建新账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3497,7 +3497,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="480" width="131" height="50" as="geometry" />
+          <mxGeometry x="466" y="482" width="111" height="41" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HQJBPsw7BwIm_Tznz3ci-8" target="yoF8KmJ-6tSJFE5IhfEH-3">
           <mxGeometry relative="1" as="geometry" />
