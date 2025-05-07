@@ -3504,9 +3504,6 @@
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写账号信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="460" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="263" y="430" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
