@@ -3624,8 +3624,8 @@
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-9" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="437.38" y="537" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-10" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="447.38" y="547" width="60" height="30" as="geometry" />
+        <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-10" value="失败" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="488.38" y="537" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
