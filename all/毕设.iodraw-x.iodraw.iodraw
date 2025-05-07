@@ -1602,7 +1602,7 @@
           <mxGeometry x="257.78999999999996" y="441" width="120.18" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VTgISVkQGM_ETE7B5oQ2-21" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="396.25" y="270.25" width="19.5" height="182" as="geometry" />
+          <mxGeometry x="383" y="247.25" width="36.25" height="172.25" as="geometry" />
         </mxCell>
         <mxCell id="VTgISVkQGM_ETE7B5oQ2-28" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="256.38" y="523" width="123" height="44" as="geometry" />
