@@ -3465,7 +3465,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="216.5" y="390" width="129.5" height="60" as="geometry" />
+          <mxGeometry x="216.5" y="390" width="117.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQJBPsw7BwIm_Tznz3ci-11">
           <mxGeometry relative="1" as="geometry">
@@ -3518,7 +3518,7 @@
           <mxGeometry x="216" y="564" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-21" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="623" width="131" height="48" as="geometry" />
+          <mxGeometry x="177" y="629" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
