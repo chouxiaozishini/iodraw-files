@@ -2136,7 +2136,7 @@
           <mxGeometry x="306.5" y="413.25" width="46" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-89" value="管理" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="432" y="412.5" width="46" height="28.5" as="geometry" />
+          <mxGeometry x="433" y="413.26" width="46" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-90" value="" style="endArrow=none;html=1;rounded=0;exitX=0.781;exitY=0.748;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="RZQZx5iWVdQciH7ohdaE-89" target="IFDFO1Opq81262NlLeT8-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2244,7 +2244,13 @@
           <mxGeometry x="414" y="490" width="19" height="13.75" as="geometry" />
         </mxCell>
         <mxCell id="RZQZx5iWVdQciH7ohdaE-134" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="591.5" width="19" height="13.75" as="geometry" />
+          <mxGeometry x="339" y="448.5" width="19" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-135" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="412.5" width="19" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="RZQZx5iWVdQciH7ohdaE-136" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="409" y="411.5" width="19" height="13.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
