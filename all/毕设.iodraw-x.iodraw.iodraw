@@ -2192,40 +2192,40 @@
           <mxGeometry x="406" y="84.5" width="41" height="554.5" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-12" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;应急通讯管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1322" y="600" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="1382" y="835" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-13" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="434" width="32" height="205" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-14" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;救援任务管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1373" y="592" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="1433" y="827" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-15" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;训练任务管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1442" y="589" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="1502" y="824" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-16" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1516" y="592" width="33" height="185" as="geometry" />
+          <mxGeometry x="1576" y="827" width="33" height="185" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-17" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;个人中心&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="886" y="617" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="946" y="852" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-18" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备类别管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1033" y="623" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="1093" y="858" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-19" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防设备管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="623" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="1161" y="858" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-20" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备维护管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1179" y="617" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="1239" y="852" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-21" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备报修管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1253" y="614" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="1313" y="849" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-22" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;系统首页&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="608" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="887" y="843" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-23" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;应急预案管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1332" y="610" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="1392" y="845" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-26" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="444" width="32" height="205" as="geometry" />
@@ -2240,7 +2240,7 @@
           <mxGeometry x="254" y="474" width="32" height="205" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-30" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="461" y="403" width="32" height="205" as="geometry" />
+          <mxGeometry x="516" y="394" width="32" height="205" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-31" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="395" width="32" height="205" as="geometry" />
