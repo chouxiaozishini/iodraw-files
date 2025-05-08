@@ -2153,10 +2153,10 @@
           <mxGeometry x="350" y="490" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-3" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;前台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="390" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="400" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-4" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;前台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="80" height="50" as="geometry" />
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-4" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;后台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
