@@ -2145,7 +2145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iNUUxnQRIe4b8k_e9xAg" name="系统功能模块设计图">
-    <mxGraphModel dx="2367" dy="1295" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1677" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2189,40 +2189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-11" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="406" y="84.5" width="41" height="554.5" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1382" y="835" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1433" y="827" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1502" y="824" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1576" y="827" width="33" height="185" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-17" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;个人中心&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="946" y="852" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-18" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备类别管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1093" y="858" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="858" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1239" y="852" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1313" y="849" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-22" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;系统首页&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="887" y="843" width="51.5" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="769" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="409.75" y="80.75" width="41" height="562" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-28" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备报修管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="393" width="32" height="205" as="geometry" />
