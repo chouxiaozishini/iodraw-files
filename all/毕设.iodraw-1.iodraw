@@ -4540,7 +4540,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5whLEdWJcanYZi8p0KAQ-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;美食资讯&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="530" width="55" height="23" as="geometry" />
+          <mxGeometry x="379" y="528.5" width="55" height="23" as="geometry" />
         </mxCell>
         <mxCell id="5whLEdWJcanYZi8p0KAQ-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.749;exitY=0.269;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5whLEdWJcanYZi8p0KAQ-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4551,7 +4551,7 @@
         <mxCell id="5whLEdWJcanYZi8p0KAQ-27" value="管理" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="387" y="404" width="46" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="5whLEdWJcanYZi8p0KAQ-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.232;entryY=0.746;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="5whLEdWJcanYZi8p0KAQ-27">
+        <mxCell id="5whLEdWJcanYZi8p0KAQ-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.232;entryY=0.746;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="5whLEdWJcanYZi8p0KAQ-27" source="5whLEdWJcanYZi8p0KAQ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="461" as="sourcePoint" />
             <mxPoint x="484" y="305" as="targetPoint" />
