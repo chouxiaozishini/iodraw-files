@@ -2209,8 +2209,8 @@
         <mxCell id="14eFpU1hl-KAsHoNVMuB-17" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="204" y="765" width="51.5" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-18" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="775" width="51.5" height="203" as="geometry" />
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-18" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备类别管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="778" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-19" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防设备管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="778" width="51.5" height="203" as="geometry" />
