@@ -1772,26 +1772,6 @@
         <mxCell id="DFQOAnicse3Wdk56kzds-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="113" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DFQOAnicse3Wdk56kzds-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFQOAnicse3Wdk56kzds-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="327.88" y="449.42857142857133" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DFQOAnicse3Wdk56kzds-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269.13" y="381" width="117.5" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="DFQOAnicse3Wdk56kzds-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="502.88" y="469.06669921875005" as="targetPoint" />
-            <mxPoint x="502.9000000000001" y="428" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DFQOAnicse3Wdk56kzds-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="502.9000000000001" y="428" as="sourcePoint" />
-            <mxPoint x="502.9000000000001" y="451" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DFQOAnicse3Wdk56kzds-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;是否已注册&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="266" width="157" height="74" as="geometry" />
         </mxCell>
@@ -1812,9 +1792,6 @@
         </mxCell>
         <mxCell id="DFQOAnicse3Wdk56kzds-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFQOAnicse3Wdk56kzds-14" target="DFQOAnicse3Wdk56kzds-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DFQOAnicse3Wdk56kzds-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293.88" y="451" width="68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="DFQOAnicse3Wdk56kzds-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
