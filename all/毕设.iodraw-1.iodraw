@@ -4488,18 +4488,6 @@
         <mxCell id="5whLEdWJcanYZi8p0KAQ-9" value="管理" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="547.71" y="384" width="46" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="5whLEdWJcanYZi8p0KAQ-10" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="266" y="425.25" width="19" height="13.75" as="geometry" />
-        </mxCell>
-        <mxCell id="5whLEdWJcanYZi8p0KAQ-11" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="553.71" y="420.63" width="19" height="13.75" as="geometry" />
-        </mxCell>
-        <mxCell id="5whLEdWJcanYZi8p0KAQ-12" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="384" width="19" height="13.75" as="geometry" />
-        </mxCell>
-        <mxCell id="5whLEdWJcanYZi8p0KAQ-13" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="432" y="382" width="19" height="13.75" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
