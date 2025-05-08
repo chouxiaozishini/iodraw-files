@@ -1763,8 +1763,8 @@
         <mxCell id="FLyubGmmdBjiRWDQPv8E-28" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390.69" y="658" width="97.5" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="FLyubGmmdBjiRWDQPv8E-29" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="542" width="80" height="80" as="geometry" />
+        <mxCell id="FLyubGmmdBjiRWDQPv8E-29" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;信息是否合法&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="542" width="130" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
