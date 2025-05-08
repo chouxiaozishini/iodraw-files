@@ -2192,7 +2192,19 @@
           <mxGeometry x="444.5" y="513.5" width="41" height="376" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-12" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364.5" y="771" width="38.5" height="164" as="geometry" />
+          <mxGeometry x="323" y="729" width="51.5" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-13" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="739" width="51.5" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-14" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="749" width="51.5" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-15" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="759" width="51.5" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-16" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="755" width="51.5" height="203" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
