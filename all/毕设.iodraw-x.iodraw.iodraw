@@ -1758,7 +1758,7 @@
           <mxGeometry x="503.88" y="629" width="97.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="FLyubGmmdBjiRWDQPv8E-27" value="重新注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="618" y="530" width="21" height="64" as="geometry" />
+          <mxGeometry x="626" y="494" width="21" height="64" as="geometry" />
         </mxCell>
         <mxCell id="FLyubGmmdBjiRWDQPv8E-28" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="684" width="97.5" height="32" as="geometry" />
