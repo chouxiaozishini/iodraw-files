@@ -2225,7 +2225,7 @@
           <mxGeometry x="327" y="394" width="32" height="205" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-39" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备维护管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382" y="395" width="32" height="205" as="geometry" />
+          <mxGeometry x="382" y="394" width="32" height="205" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.508;exitY=0.911;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="14eFpU1hl-KAsHoNVMuB-11" target="14eFpU1hl-KAsHoNVMuB-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2253,8 +2253,8 @@
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-46" value="" style="endArrow=none;html=1;rounded=0;entryX=0.957;entryY=0.82;entryDx=0;entryDy=0;exitX=0.511;exitY=0.82;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="268" y="402" as="sourcePoint" />
-            <mxPoint x="268" y="424" as="targetPoint" />
+            <mxPoint x="398" y="372" as="sourcePoint" />
+            <mxPoint x="398" y="394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
