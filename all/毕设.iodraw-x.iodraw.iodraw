@@ -1795,6 +1795,12 @@
         <mxCell id="tHfkQG7UHjmG1VBA8b5F-9" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;管理&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tHfkQG7UHjmG1VBA8b5F-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tHfkQG7UHjmG1VBA8b5F-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="530" as="sourcePoint" />
+            <mxPoint x="200" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
