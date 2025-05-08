@@ -2145,7 +2145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iNUUxnQRIe4b8k_e9xAg" name="系统功能模块设计图">
-    <mxGraphModel dx="418" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="609" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2195,10 +2195,10 @@
           <mxGeometry x="323" y="729" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-13" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="739" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="194" y="755" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-14" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;救援任务管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="749" width="51.5" height="203" as="geometry" />
+          <mxGeometry x="476" y="755" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-15" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;训练任务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="752" width="51.5" height="203" as="geometry" />
