@@ -1923,6 +1923,9 @@
         <mxCell id="cj3RhmM0IkflDQLHjwi7-3" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="396" y="290" width="20" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="cj3RhmM0IkflDQLHjwi7-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="365" width="117.5" height="47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
