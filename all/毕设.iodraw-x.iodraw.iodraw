@@ -1479,7 +1479,7 @@
         </mxCell>
         <mxCell id="p33rs-Cc8eB8v1peXooN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p33rs-Cc8eB8v1peXooN-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="494.75" y="478.06669921875005" as="targetPoint" />
+            <mxPoint x="495" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p33rs-Cc8eB8v1peXooN-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1549,6 +1549,9 @@
         </mxCell>
         <mxCell id="p33rs-Cc8eB8v1peXooN-26" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="408" y="424" width="21" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="p33rs-Cc8eB8v1peXooN-27" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444.75" y="400" width="120" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
