@@ -1868,7 +1868,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A6VgY94lHsM9dI5D6yhb" name="添加通知公告流程图">
-    <mxGraphModel dx="418" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="609" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1883,7 +1883,7 @@
             <mxPoint x="406" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOHf6iLbZXknguZorfvC-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cOHf6iLbZXknguZorfvC-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.25" y="354" width="117.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="cOHf6iLbZXknguZorfvC-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;内容是否合法&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
@@ -1910,7 +1910,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOHf6iLbZXknguZorfvC-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356.5" y="480" width="68" height="32" as="geometry" />
+          <mxGeometry x="372" y="430" width="68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="cOHf6iLbZXknguZorfvC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOHf6iLbZXknguZorfvC-29" target="cOHf6iLbZXknguZorfvC-8">
           <mxGeometry relative="1" as="geometry">
