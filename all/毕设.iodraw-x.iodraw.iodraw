@@ -2212,7 +2212,7 @@
         <mxCell id="14eFpU1hl-KAsHoNVMuB-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1161" y="858" width="51.5" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-20" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备维护管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1239" y="852" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-21" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备报修管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2254,10 +2254,10 @@
         <mxCell id="14eFpU1hl-KAsHoNVMuB-37" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备类别管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="272" y="395" width="32" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-38" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-38" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防设备管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="394" width="32" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-39" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-39" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;设备维护管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="395" width="32" height="205" as="geometry" />
         </mxCell>
       </root>
