@@ -2197,7 +2197,7 @@
         <mxCell id="14eFpU1hl-KAsHoNVMuB-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1433" y="827" width="51.5" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-15" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;训练任务管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1502" y="824" width="51.5" height="203" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-16" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2233,7 +2233,7 @@
         <mxCell id="14eFpU1hl-KAsHoNVMuB-30" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;应急通讯管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="393" width="32" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="14eFpU1hl-KAsHoNVMuB-31" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="14eFpU1hl-KAsHoNVMuB-31" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;救援任务管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="586" y="394" width="32" height="205" as="geometry" />
         </mxCell>
         <mxCell id="14eFpU1hl-KAsHoNVMuB-32" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;消防人员管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
