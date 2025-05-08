@@ -1986,8 +1986,8 @@
         <mxCell id="cOHf6iLbZXknguZorfvC-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.75" y="473" width="68" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="cOHf6iLbZXknguZorfvC-29" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;选取删除数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="180" width="146" height="50" as="geometry" />
+        <mxCell id="cOHf6iLbZXknguZorfvC-29" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;选取需删除数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="180" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cj3RhmM0IkflDQLHjwi7-3" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="397" y="310" width="20" height="130" as="geometry" />
