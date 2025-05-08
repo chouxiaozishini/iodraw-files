@@ -1896,10 +1896,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cOHf6iLbZXknguZorfvC-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="339.75" y="345" width="37" height="20" as="geometry" />
+          <mxGeometry x="421" y="345" width="37" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cOHf6iLbZXknguZorfvC-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="347" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cOHf6iLbZXknguZorfvC-14" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;上传公告&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="100" width="104" height="50" as="geometry" />
