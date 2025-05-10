@@ -2634,7 +2634,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="183" y="190" width="607" height="711" as="geometry" />
+          <mxGeometry x="145.5" y="215" width="607" height="662" as="geometry" />
         </mxCell>
         <mxCell id="DFN6V_wkhv5cGFqd4Qa1-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="525" width="30" height="60" as="geometry" />
