@@ -2339,7 +2339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I5OTJnnDwl6s2nQplDzz" name="系统用例图">
-    <mxGraphModel dx="1553" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2437,17 +2437,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="517" y="493" as="sourcePoint" />
             <mxPoint x="677" y="493" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1qtvPdHFvq6JU2FTHAYi-3" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="59" y="744" as="sourcePoint" />
-            <mxPoint x="219" y="744" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1qtvPdHFvq6JU2FTHAYi-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1qtvPdHFvq6JU2FTHAYi-3">
-          <mxGeometry x="0.781" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
