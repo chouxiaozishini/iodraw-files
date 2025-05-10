@@ -2346,8 +2346,8 @@
         <mxCell id="ky3Oh7V6OmLuP4uCr6ZZ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="98" y="401" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CEs9XFhq-j4gDYewlqQG-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278" y="295" width="120" height="80" as="geometry" />
+        <mxCell id="CEs9XFhq-j4gDYewlqQG-1" value="首页" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="295" width="105" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
