@@ -2447,7 +2447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TuF1QbG64nTUDTJyK-oh" name="消防人员用例图">
-    <mxGraphModel dx="1018" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1746" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2514,13 +2514,10 @@
             <mxPoint x="266.25" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ML78B4uP3SSoFEYzF0C7-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;我的收藏&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="539" width="180" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ML78B4uP3SSoFEYzF0C7-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ML78B4uP3SSoFEYzF0C7-1">
+        <mxCell id="ML78B4uP3SSoFEYzF0C7-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="137" y="514" as="sourcePoint" />
-            <mxPoint x="285" y="419" as="targetPoint" />
+            <mxPoint x="213.9999999999959" y="565.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LvXV158deafGY6Pd-OF9-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lBK_XQn6LaYnAqNbMhYW-3" target="lBK_XQn6LaYnAqNbMhYW-10">
