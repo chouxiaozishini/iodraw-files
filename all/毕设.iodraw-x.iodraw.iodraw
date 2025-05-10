@@ -2460,6 +2460,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S-Hsdn-VmALUja5TJXjN-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="640" height="790" as="geometry" />
+        </mxCell>
         <mxCell id="lBK_XQn6LaYnAqNbMhYW-2" value="消防人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="540" width="30" height="60" as="geometry" />
         </mxCell>
@@ -2607,9 +2610,6 @@
         </mxCell>
         <mxCell id="1Q9bDsE9TBNFy23NdAtN-36" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="470.0001474536705" y="925.997306448264" as="geometry" />
-        </mxCell>
-        <mxCell id="S-Hsdn-VmALUja5TJXjN-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="640" height="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
