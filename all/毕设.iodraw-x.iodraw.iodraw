@@ -2449,8 +2449,8 @@
             <mxPoint x="8" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1qtvPdHFvq6JU2FTHAYi-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="454" y="152" width="60" height="30" as="geometry" />
+        <mxCell id="1qtvPdHFvq6JU2FTHAYi-19" value="校园消防管理体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454" y="152" width="124" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
