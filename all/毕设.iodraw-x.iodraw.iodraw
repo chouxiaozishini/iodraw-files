@@ -2747,7 +2747,7 @@
             <mxPoint x="494" y="452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfclYVbpYa8DxnGPv9Yt-17" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;训练任务&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RfclYVbpYa8DxnGPv9Yt-17" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;通知公告&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="504" y="726" width="180" height="53" as="geometry" />
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="RfclYVbpYa8DxnGPv9Yt-17">
