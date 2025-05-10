@@ -2667,7 +2667,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uAjkKKZsoYhhJZCL8x-K-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;任务管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207" y="652" width="180" height="53" as="geometry" />
+          <mxGeometry x="207" y="591" width="180" height="53" as="geometry" />
         </mxCell>
         <mxCell id="uAjkKKZsoYhhJZCL8x-K-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uAjkKKZsoYhhJZCL8x-K-3" source="DFN6V_wkhv5cGFqd4Qa1-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2694,7 +2694,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;设备类别&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="397" width="180" height="53" as="geometry" />
+          <mxGeometry x="500" y="288" width="180" height="53" as="geometry" />
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="RfclYVbpYa8DxnGPv9Yt-1" source="uAjkKKZsoYhhJZCL8x-K-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -2703,7 +2703,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;设备报修&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="507" y="571" width="180" height="53" as="geometry" />
+          <mxGeometry x="498" y="462" width="180" height="53" as="geometry" />
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0" edge="1" parent="1" target="RfclYVbpYa8DxnGPv9Yt-4" source="uAjkKKZsoYhhJZCL8x-K-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -2712,7 +2712,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-7" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;设备维护&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="513" width="180" height="53" as="geometry" />
+          <mxGeometry x="496" y="404" width="180" height="53" as="geometry" />
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="RfclYVbpYa8DxnGPv9Yt-7" source="uAjkKKZsoYhhJZCL8x-K-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -2721,7 +2721,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-10" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;消防设备&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507" y="455" width="180" height="53" as="geometry" />
+          <mxGeometry x="498" y="346" width="180" height="53" as="geometry" />
         </mxCell>
         <mxCell id="RfclYVbpYa8DxnGPv9Yt-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="RfclYVbpYa8DxnGPv9Yt-10" source="uAjkKKZsoYhhJZCL8x-K-1">
           <mxGeometry width="160" relative="1" as="geometry">
