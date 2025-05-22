@@ -3922,13 +3922,11 @@
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="261" y="390" width="117.5" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HQJBPsw7BwIm_Tznz3ci-11" edge="1">
+        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="494.75" y="478.06669921875005" as="targetPoint" />
+            <mxPoint x="494.8000000000002" y="437" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HQJBPsw7BwIm_Tznz3ci-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="434.75" y="390" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;是否已有帐号&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="210" width="157" height="100" as="geometry" />
@@ -3989,8 +3987,8 @@
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-29" value="重新登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="166" y="475" width="21" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="bspiov3gIEgAAimC4jG6-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="582" y="390" width="122" height="46" as="geometry" />
+        <mxCell id="bspiov3gIEgAAimC4jG6-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="444" y="390" width="122" height="46" as="geometry" />
         </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-2" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="124" width="76" height="47" as="geometry" />
