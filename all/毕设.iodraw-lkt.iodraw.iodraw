@@ -322,13 +322,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cIbN7EmVMTAtjDZIlVU7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cIbN7EmVMTAtjDZIlVU7-2" edge="1">
+        <mxCell id="cIbN7EmVMTAtjDZIlVU7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="209.6666259765625" as="targetPoint" />
+            <mxPoint x="290" y="170" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cIbN7EmVMTAtjDZIlVU7-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cIbN7EmVMTAtjDZIlVU7-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -372,6 +370,12 @@
         </mxCell>
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-22" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250.75" y="651" width="78.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Gkbv_vS9UQFLjQa38fUs-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="242.25" y="120" width="95.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gkbv_vS9UQFLjQa38fUs-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="224.25" y="920" width="95.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
