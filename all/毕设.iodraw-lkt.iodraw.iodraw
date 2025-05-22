@@ -450,17 +450,15 @@
         <mxCell id="1Z6egvQybNSEKzGqGXN0-50" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;修改成功&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="324" y="479" width="106" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="1Z6egvQybNSEKzGqGXN0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Z6egvQybNSEKzGqGXN0-53" edge="1">
+        <mxCell id="1Z6egvQybNSEKzGqGXN0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="144" y="688" />
               <mxPoint x="375" y="688" />
             </Array>
             <mxPoint x="375.0588235294117" y="728" as="targetPoint" />
+            <mxPoint x="144" y="659" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1Z6egvQybNSEKzGqGXN0-53" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;添加成功&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="91" y="615" width="106" height="44" as="geometry" />
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-56" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -527,7 +525,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-18" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="229" y="618" width="94" height="43" as="geometry" />
+          <mxGeometry x="98" y="615" width="94" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
