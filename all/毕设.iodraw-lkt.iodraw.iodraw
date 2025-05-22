@@ -390,6 +390,11 @@
         <mxCell id="xcENkug-bExoXaJ2T7Hz-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;将图片储存至指定路径&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="439" y="344" width="272" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xcENkug-bExoXaJ2T7Hz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcENkug-bExoXaJ2T7Hz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="578" y="509.33332519531245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xcENkug-bExoXaJ2T7Hz-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成储存信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="495" y="426" width="166" height="50" as="geometry" />
         </mxCell>
@@ -397,6 +402,9 @@
           <mxGeometry x="492" y="513" width="166" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xcENkug-bExoXaJ2T7Hz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xcENkug-bExoXaJ2T7Hz-1" target="xcENkug-bExoXaJ2T7Hz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcENkug-bExoXaJ2T7Hz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xcENkug-bExoXaJ2T7Hz-5" target="xcENkug-bExoXaJ2T7Hz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
