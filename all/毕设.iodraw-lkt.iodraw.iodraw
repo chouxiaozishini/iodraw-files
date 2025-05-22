@@ -420,12 +420,6 @@
             <mxPoint x="146.69999999999982" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Z6egvQybNSEKzGqGXN0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="146.5" y="455.3793103448277" as="targetPoint" />
-            <mxPoint x="146.5" y="430" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1Z6egvQybNSEKzGqGXN0-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146.505" y="614.6666666666667" as="targetPoint" />
@@ -529,7 +523,7 @@
           <mxGeometry x="99" y="315" width="95.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="107" y="377" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="387" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
