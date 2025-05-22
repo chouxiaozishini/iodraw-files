@@ -266,6 +266,9 @@
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135.5" y="1116" width="91" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;用户提交订单&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="531" y="237" width="153" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
