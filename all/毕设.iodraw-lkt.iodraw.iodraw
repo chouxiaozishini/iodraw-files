@@ -268,6 +268,9 @@
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="103" y="526" width="153" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-10" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="107.75" y="610" width="153" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
