@@ -514,7 +514,12 @@
           <mxGeometry x="98" y="615" width="94" height="43" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-19" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;修改成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="480" width="94" height="43" as="geometry" />
+          <mxGeometry x="326" y="477" width="94" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="MB6EJqWwBfSm_RXA_qot-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MB6EJqWwBfSm_RXA_qot-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="371" y="476.6190708705358" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-20" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;修改信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="324" y="395" width="94" height="43" as="geometry" />
