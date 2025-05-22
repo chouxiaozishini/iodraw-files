@@ -137,7 +137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VfZo3tfBqgvhS4fqTCZp" name="4.2.2">
-    <mxGraphModel dx="958" dy="1695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="1931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,27 +177,14 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;不充足&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="336" y="237" width="63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="nbztOuZGgZvdvijXqAUD-17" edge="1">
+        <mxCell id="nbztOuZGgZvdvijXqAUD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="436" y="1065" />
             </Array>
             <mxPoint x="436" y="621" as="sourcePoint" />
+            <mxPoint x="255.99999999999977" y="1065" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="179" y="1039.5396437872023" as="targetPoint" />
-            <mxPoint x="178.96666666666647" y="1002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nbztOuZGgZvdvijXqAUD-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="181" y="1118" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-17" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="106" y="1041" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="m_yJxMKDIm1yRBwOIcMI-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;库存是否充足&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220.5" y="140" width="174" height="103" as="geometry" />
@@ -266,6 +253,11 @@
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="102" y="832" width="153" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178.49999999999977" y="984.6322400323279" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-21" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;返回结果&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="118.75" y="912" width="119.5" height="50" as="geometry" />
