@@ -147,13 +147,11 @@
             <mxPoint x="307.57142857142867" y="25.33" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m_yJxMKDIm1yRBwOIcMI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nbztOuZGgZvdvijXqAUD-4" edge="1">
+        <mxCell id="m_yJxMKDIm1yRBwOIcMI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="307.5" y="139.99588235294144" as="targetPoint" />
+            <mxPoint x="307.5" y="110" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;用户提交订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="216" y="60" width="183" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -260,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SQNrXNH5Un8MMlwuLVEN-2" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;用户提交订单&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="570" y="243" width="153" height="50" as="geometry" />
+          <mxGeometry x="231" y="60" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="-5.000000000000002" width="91" height="43" as="geometry" />
