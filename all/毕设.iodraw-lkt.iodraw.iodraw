@@ -4091,6 +4091,11 @@
             <mxPoint x="517" y="597" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lZZCf3sSkOplMOhhWx96-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZZCf3sSkOplMOhhWx96-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="684.2068965517242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-13" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="239" y="613" width="122" height="43.5" as="geometry" />
         </mxCell>
