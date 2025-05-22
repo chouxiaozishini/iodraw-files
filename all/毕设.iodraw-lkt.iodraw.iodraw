@@ -382,7 +382,7 @@
               <mxPoint x="377" y="285" />
               <mxPoint x="146" y="285" />
             </Array>
-            <mxPoint x="377" y="266" as="sourcePoint" />
+            <mxPoint x="377" y="285" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -518,11 +518,6 @@
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-24" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;删除成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="530" y="553" width="94" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="MB6EJqWwBfSm_RXA_qot-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MB6EJqWwBfSm_RXA_qot-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="376.75" y="316.20111731843576" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-25" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="329" y="209" width="95.5" height="50" as="geometry" />
