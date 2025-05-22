@@ -364,7 +364,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eg4u5nf12WLnr6NVwB_s" name="4.2.5">
-    <mxGraphModel dx="2424" dy="1474" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2367" dy="1300" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3999,7 +3999,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QNqFRhKJQl9ZHDvuOnHX" name="注册流程图">
-    <mxGraphModel dx="731" dy="1098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4008,7 +4008,7 @@
             <mxPoint x="406" y="153" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S2tT4-WO2ThoVZloBv-z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCgRs6AmG_4jNxmJbf61-5">
+        <mxCell id="S2tT4-WO2ThoVZloBv-z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wCgRs6AmG_4jNxmJbf61-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="298.75" y="643.3333333333335" as="targetPoint" />
           </mxGeometry>
@@ -4063,13 +4063,13 @@
             <mxPoint x="472.13" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ECMQFRTBJwSRfyWU12_b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dj-gOMPD1Dk6pA1xmJbX-6" target="wCgRs6AmG_4jNxmJbf61-5">
+        <mxCell id="ECMQFRTBJwSRfyWU12_b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Dj-gOMPD1Dk6pA1xmJbX-6" target="wCgRs6AmG_4jNxmJbf61-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="383.5" y="573" width="97.5" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="ECMQFRTBJwSRfyWU12_b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Dj-gOMPD1Dk6pA1xmJbX-7" target="wCgRs6AmG_4jNxmJbf61-5">
+        <mxCell id="ECMQFRTBJwSRfyWU12_b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Dj-gOMPD1Dk6pA1xmJbX-7" target="wCgRs6AmG_4jNxmJbf61-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="299" y="353" as="sourcePoint" />
           </mxGeometry>
@@ -4100,10 +4100,10 @@
         <mxCell id="SNx_vq29inixbZ_lGZ1X-1" value="重新注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="606" y="463" width="21" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="S2tT4-WO2ThoVZloBv-z-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="S2tT4-WO2ThoVZloBv-z-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="358.25" y="102" width="95.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S2tT4-WO2ThoVZloBv-z-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="S2tT4-WO2ThoVZloBv-z-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="249" y="644" width="95.5" height="50" as="geometry" />
         </mxCell>
       </root>
