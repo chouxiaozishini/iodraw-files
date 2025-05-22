@@ -4092,7 +4092,7 @@
         <mxCell id="lZZCf3sSkOplMOhhWx96-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册失败&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="572" y="646" width="122" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="lZZCf3sSkOplMOhhWx96-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.523;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lZZCf3sSkOplMOhhWx96-4">
+        <mxCell id="lZZCf3sSkOplMOhhWx96-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Dj-gOMPD1Dk6pA1xmJbX-8" target="lZZCf3sSkOplMOhhWx96-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="467" y="647" as="sourcePoint" />
             <mxPoint x="517" y="597" as="targetPoint" />
