@@ -304,6 +304,11 @@
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-17" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="201" y="569" width="150" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="XUzcRoX76_VTNco8L_Qb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4P5wox7nHxb2UChVA7Qg-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540.5" y="188.16671752929688" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4P5wox7nHxb2UChVA7Qg-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;用户在购物车删除商品&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="414" y="106" width="253" height="50" as="geometry" />
         </mxCell>
@@ -322,7 +327,10 @@
           <mxGeometry x="488" y="631" width="91" height="43" as="geometry" />
         </mxCell>
         <mxCell id="XUzcRoX76_VTNco8L_Qb-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成删除结果信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="414.5" y="188" width="218.5" height="50" as="geometry" />
+          <mxGeometry x="431.25" y="190" width="218.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XUzcRoX76_VTNco8L_Qb-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成删除结果信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="431.75" y="275" width="218.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
