@@ -3997,7 +3997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QNqFRhKJQl9ZHDvuOnHX" name="注册流程图">
-    <mxGraphModel dx="1150" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4086,7 +4086,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;验证信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="435" y="534.5" width="117" height="50" as="geometry" />
+          <mxGeometry x="435" y="534.5" width="122" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZZCf3sSkOplMOhhWx96-5">
           <mxGeometry relative="1" as="geometry">
