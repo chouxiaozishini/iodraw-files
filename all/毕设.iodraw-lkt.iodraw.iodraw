@@ -4088,7 +4088,7 @@
           <mxGeometry x="431" y="370" width="133" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;验证信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="435" y="534" width="117" height="50" as="geometry" />
+          <mxGeometry x="435" y="534.5" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZZCf3sSkOplMOhhWx96-5">
           <mxGeometry relative="1" as="geometry">
