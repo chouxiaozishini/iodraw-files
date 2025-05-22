@@ -3988,13 +3988,16 @@
           <mxGeometry x="166" y="475" width="21" height="64" as="geometry" />
         </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="444" y="390" width="122" height="46" as="geometry" />
+          <mxGeometry x="437" y="390" width="122" height="46" as="geometry" />
         </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-2" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="124" width="76" height="47" as="geometry" />
         </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344.25" y="659" width="76" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="bspiov3gIEgAAimC4jG6-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="447" y="400" width="122" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
