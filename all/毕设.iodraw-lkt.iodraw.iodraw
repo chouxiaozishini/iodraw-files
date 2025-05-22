@@ -4120,10 +4120,10 @@
           <mxGeometry x="497.38" y="573" width="97.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="SNx_vq29inixbZ_lGZ1X-1" value="重新注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="618" y="489.5" width="21" height="64" as="geometry" />
+          <mxGeometry x="606" y="463" width="21" height="64" as="geometry" />
         </mxCell>
         <mxCell id="SNx_vq29inixbZ_lGZ1X-3" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="656" width="97.5" height="32" as="geometry" />
+          <mxGeometry x="250" y="630" width="97.5" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
