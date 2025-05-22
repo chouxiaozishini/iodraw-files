@@ -3996,7 +3996,10 @@
           <mxGeometry x="344.25" y="659" width="76" height="47" as="geometry" />
         </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="437" y="479" width="122" height="46" as="geometry" />
+          <mxGeometry x="434.75" y="479" width="122" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="bspiov3gIEgAAimC4jG6-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="444.75" y="489" width="122" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
