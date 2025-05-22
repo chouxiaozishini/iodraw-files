@@ -270,13 +270,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WnXQVmfwoPzSvitWUNoQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnXQVmfwoPzSvitWUNoQ-2" edge="1">
+        <mxCell id="WnXQVmfwoPzSvitWUNoQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="284.6666259765625" as="targetPoint" />
+            <mxPoint x="270" y="245" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WnXQVmfwoPzSvitWUNoQ-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnXQVmfwoPzSvitWUNoQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -330,16 +328,13 @@
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;生成删除结果信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="47" y="654" width="188" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WnXQVmfwoPzSvitWUNoQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnXQVmfwoPzSvitWUNoQ-17" target="WnXQVmfwoPzSvitWUNoQ-18" edge="1">
+        <mxCell id="WnXQVmfwoPzSvitWUNoQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WnXQVmfwoPzSvitWUNoQ-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="143" y="833.2698218936011" as="targetPoint" />
+            <mxPoint x="143" y="833" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WnXQVmfwoPzSvitWUNoQ-17" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="68" y="756" width="150" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WnXQVmfwoPzSvitWUNoQ-18" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90.5" y="833" width="105" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Khs9pUbV5FEeUdzW4fRz-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;购物车是否&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;有该商品&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="160" y="371" width="220" height="106" as="geometry" />
@@ -354,7 +349,7 @@
           <mxGeometry x="465" y="433" width="95.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P5wox7nHxb2UChVA7Qg-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="326" y="1203" width="95.5" height="50" as="geometry" />
+          <mxGeometry x="95.25" y="833" width="95.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
