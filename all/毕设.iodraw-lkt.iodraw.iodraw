@@ -199,12 +199,6 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-17" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="106" y="1041" width="150" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="181" y="744.3333740234375" as="targetPoint" />
-            <mxPoint x="181" y="706" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-30" value="生成支付结果信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="81" y="744" width="200" height="60" as="geometry" />
         </mxCell>
@@ -264,6 +258,11 @@
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="103" y="526" width="153" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177.75000000000023" y="675.8334350585938" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-10" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;返回支付结果&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="101.25" y="601" width="153" height="50" as="geometry" />
