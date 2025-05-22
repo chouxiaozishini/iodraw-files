@@ -425,6 +425,9 @@
             <mxPoint x="148.67000000000007" y="613.86669921875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MB6EJqWwBfSm_RXA_qot-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-35" target="MB6EJqWwBfSm_RXA_qot-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="43" y="468" width="211" height="126.6" as="geometry" />
         </mxCell>
@@ -514,6 +517,9 @@
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="89" y="387" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MB6EJqWwBfSm_RXA_qot-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MB6EJqWwBfSm_RXA_qot-6" target="1Z6egvQybNSEKzGqGXN0-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
