@@ -128,11 +128,14 @@
         <mxCell id="edlHX0nXwtgwjYcN29DZ-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加商品至购物车&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="277" width="209" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="edlHX0nXwtgwjYcN29DZ-5" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 23px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;返回修改结果&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="edlHX0nXwtgwjYcN29DZ-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191" y="744" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="edlHX0nXwtgwjYcN29DZ-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;返回修改结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="189" y="833" width="156" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="edlHX0nXwtgwjYcN29DZ-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7" y="695" width="156" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
