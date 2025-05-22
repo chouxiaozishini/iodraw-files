@@ -4099,6 +4099,9 @@
         <mxCell id="lZZCf3sSkOplMOhhWx96-13" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="239" y="613" width="122" height="43.5" as="geometry" />
         </mxCell>
+        <mxCell id="lZZCf3sSkOplMOhhWx96-18" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345.38" y="673" width="79.12" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
