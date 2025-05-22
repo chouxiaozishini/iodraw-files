@@ -374,12 +374,6 @@
             <mxPoint x="375.0588235294117" y="178" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Z6egvQybNSEKzGqGXN0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="266" as="sourcePoint" />
-            <mxPoint x="374.625" y="318" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146" y="315" as="targetPoint" />
@@ -526,7 +520,7 @@
           <mxGeometry x="530" y="553" width="94" height="43" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-25" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="331" y="215" width="95.5" height="50" as="geometry" />
+          <mxGeometry x="329" y="216" width="95.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
