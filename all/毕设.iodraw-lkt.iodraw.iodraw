@@ -199,9 +199,6 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-17" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="106" y="1041" width="150" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-30" value="生成支付结果信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="81" y="744" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="181" y="842.666748046875" as="targetPoint" />
@@ -268,7 +265,7 @@
           <mxGeometry x="101.25" y="601" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-13" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成支付结果信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="101.25" y="677" width="153" height="50" as="geometry" />
+          <mxGeometry x="78.88" y="676" width="197.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
