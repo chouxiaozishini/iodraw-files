@@ -199,13 +199,11 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-17" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="106" y="1041" width="150" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nbztOuZGgZvdvijXqAUD-20" edge="1">
+        <mxCell id="nbztOuZGgZvdvijXqAUD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="181" y="546.3333740234375" as="targetPoint" />
+            <mxPoint x="180.9655172413793" y="508" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-20" value="生成订单号和支付信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="60" y="448" width="242" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-22" value="模拟支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="118.5" y="547" width="120" height="60" as="geometry" />
@@ -268,8 +266,8 @@
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;创建订单并扣除库存&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="68" y="348" width="213" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;创建订单并扣除库存&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="78" y="358" width="213" height="50" as="geometry" />
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成订单号和支付信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="63" y="448" width="242" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
