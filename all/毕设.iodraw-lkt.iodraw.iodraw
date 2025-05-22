@@ -364,7 +364,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eg4u5nf12WLnr6NVwB_s" name="4.2.5">
-    <mxGraphModel dx="111" dy="68" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="192" dy="117" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,7 +378,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146" y="315" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="375" y="285" />
+              <mxPoint x="377" y="266" />
+              <mxPoint x="377" y="285" />
               <mxPoint x="146" y="285" />
             </Array>
             <mxPoint x="375" y="266" as="sourcePoint" />
@@ -519,7 +520,7 @@
           <mxGeometry x="530" y="553" width="94" height="43" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-25" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="329" y="215" width="95.5" height="50" as="geometry" />
+          <mxGeometry x="328" y="209" width="95.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MB6EJqWwBfSm_RXA_qot-25" target="MB6EJqWwBfSm_RXA_qot-2">
           <mxGeometry relative="1" as="geometry" />
