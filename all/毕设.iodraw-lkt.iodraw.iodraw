@@ -420,9 +420,9 @@
             <mxPoint x="146.69999999999982" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MB6EJqWwBfSm_RXA_qot-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-35">
+        <mxCell id="MB6EJqWwBfSm_RXA_qot-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="148.67000000000007" y="614.4000488281249" as="targetPoint" />
+            <mxPoint x="148.67000000000007" y="613.86669921875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;" parent="1" vertex="1">
