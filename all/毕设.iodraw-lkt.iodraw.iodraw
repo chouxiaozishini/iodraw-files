@@ -432,7 +432,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="34" y="454" width="225.01" height="135" as="geometry" />
+          <mxGeometry x="49" y="473" width="193.34" height="116" as="geometry" />
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.008;exitY=0.499;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1Z6egvQybNSEKzGqGXN0-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
