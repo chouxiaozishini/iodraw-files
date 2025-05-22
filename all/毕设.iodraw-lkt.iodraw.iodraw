@@ -4035,9 +4035,6 @@
             <mxPoint x="487.89655172413813" y="526" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCgRs6AmG_4jNxmJbf61-14" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="437.38" y="441" width="111" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="E9MXYnukGVQihRu5IPYw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="wCgRs6AmG_4jNxmJbf61-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="406" y="233" as="sourcePoint" />
@@ -4097,7 +4094,7 @@
           <mxGeometry x="600" y="382" width="133" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="652" y="456" width="120" height="60" as="geometry" />
+          <mxGeometry x="432.38" y="446" width="125" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
