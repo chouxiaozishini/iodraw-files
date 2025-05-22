@@ -137,7 +137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VfZo3tfBqgvhS4fqTCZp" name="4.2.2">
-    <mxGraphModel dx="958" dy="1695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1677" dy="2090" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,9 +198,6 @@
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-17" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="106" y="1041" width="150" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-34" value="生成返回信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="107.75" y="942" width="146.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m_yJxMKDIm1yRBwOIcMI-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;库存是否充足&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220.5" y="140" width="174" height="103" as="geometry" />
@@ -265,7 +262,10 @@
           <mxGeometry x="53.31" y="754" width="250.38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="102" y="840" width="153" height="50" as="geometry" />
+          <mxGeometry x="102" y="832" width="153" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-21" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="112" y="842" width="153" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
