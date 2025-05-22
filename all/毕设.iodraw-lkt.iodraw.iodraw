@@ -262,10 +262,7 @@
           <mxGeometry x="53.31" y="754" width="250.38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="96" y="832" width="153" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.536;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-15" target="LzcIMA9KPx-sWlW2ZLeM-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="101.25" y="858" width="153" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
