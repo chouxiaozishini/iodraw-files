@@ -3966,13 +3966,8 @@
         <mxCell id="bspiov3gIEgAAimC4jG6-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="437" y="390" width="122" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="bspiov3gIEgAAimC4jG6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bspiov3gIEgAAimC4jG6-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="406" y="211.33334350585938" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-2" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368" y="142" width="76" height="47" as="geometry" />
+          <mxGeometry x="368" y="147" width="76" height="47" as="geometry" />
         </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="663" width="76" height="47" as="geometry" />
@@ -3994,6 +3989,9 @@
         </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-9" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="597" width="122" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="bspiov3gIEgAAimC4jG6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bspiov3gIEgAAimC4jG6-2" target="HQJBPsw7BwIm_Tznz3ci-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
