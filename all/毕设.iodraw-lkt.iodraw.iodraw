@@ -425,13 +425,8 @@
             <mxPoint x="148.67000000000007" y="613.86669921875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MB6EJqWwBfSm_RXA_qot-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.013;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-35" target="MB6EJqWwBfSm_RXA_qot-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="46" y="448" />
-              <mxPoint x="46" y="417" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="MB6EJqWwBfSm_RXA_qot-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-35" target="MB6EJqWwBfSm_RXA_qot-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="填写信息是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="43" y="468" width="211" height="126.6" as="geometry" />
