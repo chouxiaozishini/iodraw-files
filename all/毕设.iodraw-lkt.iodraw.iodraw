@@ -176,10 +176,10 @@
           <mxGeometry x="73.5" y="347" width="215" height="62" as="geometry" />
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;充足&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="222.5" y="278" width="48" height="30" as="geometry" />
+          <mxGeometry x="220.5" y="240" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;不充足&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="333.5" y="278" width="63" height="30" as="geometry" />
+          <mxGeometry x="336" y="237" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nbztOuZGgZvdvijXqAUD-11" target="nbztOuZGgZvdvijXqAUD-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -260,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SQNrXNH5Un8MMlwuLVEN-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="574" y="984" width="95.5" height="50" as="geometry" />
+          <mxGeometry x="587" y="607" width="95.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="-47" width="91" height="43" as="geometry" />
