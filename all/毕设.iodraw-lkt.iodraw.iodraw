@@ -199,20 +199,6 @@
         <mxCell id="nbztOuZGgZvdvijXqAUD-17" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="106" y="1041" width="150" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="181" y="842.666748046875" as="targetPoint" />
-            <mxPoint x="181.5" y="804" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nbztOuZGgZvdvijXqAUD-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="181" y="941.3333740234375" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nbztOuZGgZvdvijXqAUD-33" value="更新订单状态为已支付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="60" y="843" width="242" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-34" value="生成返回信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="107.75" y="942" width="146.5" height="60" as="geometry" />
         </mxCell>
@@ -273,7 +259,10 @@
           <mxGeometry x="78.88" y="676" width="197.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-15" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;更新订单状态为已支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="79.62" y="754" width="250.38" height="50" as="geometry" />
+          <mxGeometry x="53.31" y="754" width="250.38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-16" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;返回支付结果&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="111.25" y="611" width="153" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
