@@ -4044,7 +4044,7 @@
           <mxGeometry x="388.37" y="262.38" width="19.5" height="197.75" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="490.82" y="558.5" width="13.37" height="113" as="geometry" />
+          <mxGeometry x="489.32" y="548" width="13.37" height="113" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-9" value="成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="393" y="570" width="60" height="30" as="geometry" />
