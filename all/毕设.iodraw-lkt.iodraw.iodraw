@@ -272,8 +272,8 @@
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-13" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成支付结果信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="78.88" y="676" width="197.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-15" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成支付结果信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="88.88" y="686" width="197.75" height="50" as="geometry" />
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-15" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;更新订单状态为已支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="79.62" y="754" width="250.38" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
