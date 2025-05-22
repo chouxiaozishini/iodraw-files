@@ -4108,7 +4108,7 @@
           <mxGeometry x="366.44" y="112" width="79.12" height="42" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-3" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="193" width="95.5" height="50" as="geometry" />
+          <mxGeometry x="546" y="250" width="95.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
