@@ -134,8 +134,8 @@
         <mxCell id="edlHX0nXwtgwjYcN29DZ-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="54" y="558" width="156" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="edlHX0nXwtgwjYcN29DZ-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="639" width="156" height="51" as="geometry" />
+        <mxCell id="edlHX0nXwtgwjYcN29DZ-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加商品到购物车&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="639" width="192" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
