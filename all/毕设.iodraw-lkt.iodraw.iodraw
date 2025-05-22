@@ -4073,8 +4073,11 @@
         <mxCell id="lZZCf3sSkOplMOhhWx96-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="448" width="125" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="lZZCf3sSkOplMOhhWx96-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZZCf3sSkOplMOhhWx96-10" target="lZZCf3sSkOplMOhhWx96-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-10" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="386" y="611.25" width="109" height="43.5" as="geometry" />
+          <mxGeometry x="388.37" y="613" width="109" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.001;exitY=0.654;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lZZCf3sSkOplMOhhWx96-11" target="lZZCf3sSkOplMOhhWx96-3">
           <mxGeometry relative="1" as="geometry" />
