@@ -526,8 +526,8 @@
         <mxCell id="MB6EJqWwBfSm_RXA_qot-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MB6EJqWwBfSm_RXA_qot-6" target="1Z6egvQybNSEKzGqGXN0-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MB6EJqWwBfSm_RXA_qot-18" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="229" y="611" width="95.5" height="50" as="geometry" />
+        <mxCell id="MB6EJqWwBfSm_RXA_qot-18" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="229" y="618" width="94" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
