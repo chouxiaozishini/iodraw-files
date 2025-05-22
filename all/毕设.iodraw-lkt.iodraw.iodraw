@@ -133,6 +133,9 @@
         <mxCell id="edlHX0nXwtgwjYcN29DZ-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191" y="744" width="156" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="edlHX0nXwtgwjYcN29DZ-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="775" width="156" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
