@@ -3971,9 +3971,6 @@
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-21" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录成功&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329.75" y="595" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-26" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;重新填写&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="204.75" y="595" width="105" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-29" value="重新登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="166" y="475" width="21" height="64" as="geometry" />
         </mxCell>
@@ -3995,8 +3992,8 @@
         <mxCell id="bspiov3gIEgAAimC4jG6-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="254.75" y="390" width="122" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="bspiov3gIEgAAimC4jG6-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;登录账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="264.75" y="400" width="122" height="46" as="geometry" />
+        <mxCell id="bspiov3gIEgAAimC4jG6-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;重新填写&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="195" y="595" width="122" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
