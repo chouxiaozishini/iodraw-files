@@ -337,7 +337,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-7" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;服务器接受上传请求并生成 存储路径&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="99.25" y="308" width="381.5" height="60" as="geometry" />
+          <mxGeometry x="38" y="309" width="381.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cIbN7EmVMTAtjDZIlVU7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cIbN7EmVMTAtjDZIlVU7-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -369,8 +369,8 @@
         <mxCell id="Gkbv_vS9UQFLjQa38fUs-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="242.25" y="652" width="95.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xcENkug-bExoXaJ2T7Hz-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;用户在购物车删除商品&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="439" y="173" width="253" height="50" as="geometry" />
+        <mxCell id="xcENkug-bExoXaJ2T7Hz-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;用户上传商品图片&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="471" y="170" width="214" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xcENkug-bExoXaJ2T7Hz-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520.5" y="97" width="91" height="43" as="geometry" />
