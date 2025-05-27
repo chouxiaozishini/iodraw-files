@@ -2439,8 +2439,8 @@
             <mxPoint x="410" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cgjhcNVEWQPAD9E7LUAK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="cgjhcNVEWQPAD9E7LUAK-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="40" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
