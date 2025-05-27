@@ -2442,8 +2442,8 @@
         <mxCell id="cgjhcNVEWQPAD9E7LUAK-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="600" width="40" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="cgjhcNVEWQPAD9E7LUAK-7" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="600" width="40" height="130" as="geometry" />
+        <mxCell id="cgjhcNVEWQPAD9E7LUAK-7" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;供应商管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="600" width="40" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cgjhcNVEWQPAD9E7LUAK-8" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商品管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="587.5" width="40" height="130" as="geometry" />
