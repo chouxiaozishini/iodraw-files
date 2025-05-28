@@ -410,6 +410,9 @@
             <mxPoint x="206.5" y="465.9444274902344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lxS7QAua8BnG0fsJlUKj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lxS7QAua8BnG0fsJlUKj-5" target="SQNrXNH5Un8MMlwuLVEN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lxS7QAua8BnG0fsJlUKj-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;是否支付&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="374.33" width="147" height="62" as="geometry" />
         </mxCell>
