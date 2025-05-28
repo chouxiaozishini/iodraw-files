@@ -314,11 +314,11 @@
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442" y="423" as="targetPoint" />
+            <mxPoint x="426" y="437" as="targetPoint" />
             <mxPoint x="308.03" y="263" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="308" y="263" />
-              <mxPoint x="442" y="263" />
+              <mxPoint x="426" y="263" />
+              <mxPoint x="426" y="423" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -349,7 +349,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;购买失败&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="374" y="458" width="116" height="50" as="geometry" />
+          <mxGeometry x="362" y="441" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lxS7QAua8BnG0fsJlUKj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-8">
           <mxGeometry relative="1" as="geometry">
