@@ -656,9 +656,9 @@
         <mxCell id="Zj-eWUbpBxw6OTmkliJW-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;修改信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;metaEdit=0;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="308" y="396" width="125" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="ZOKHhLxST6HUv8P8BkBf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOKHhLxST6HUv8P8BkBf-2">
+        <mxCell id="ZOKHhLxST6HUv8P8BkBf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOKHhLxST6HUv8P8BkBf-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="144.5" y="613.3809640066963" as="targetPoint" />
+            <mxPoint x="144.5" y="614.888879534842" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZOKHhLxST6HUv8P8BkBf-2" value="是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;metaEdit=0;" vertex="1" parent="1">
