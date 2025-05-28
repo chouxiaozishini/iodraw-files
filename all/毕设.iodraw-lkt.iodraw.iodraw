@@ -593,7 +593,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-59" value="是否删除" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;metaEdit=0;" parent="1" vertex="1">
-          <mxGeometry x="483" y="388" width="135" height="81" as="geometry" />
+          <mxGeometry x="513" y="390" width="135" height="81" as="geometry" />
         </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.482;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;metaEdit=0;fontSize=23;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -630,7 +630,7 @@
           <mxGeometry x="99" y="315" width="95.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;metaEdit=0;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="84" y="387" width="125" height="47" as="geometry" />
+          <mxGeometry x="82" y="395" width="125" height="47" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-18" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;metaEdit=0;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="99" y="604" width="94" height="43" as="geometry" />
