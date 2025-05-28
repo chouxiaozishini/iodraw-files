@@ -362,21 +362,13 @@
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加商品到购物车&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="353" y="555" width="194" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="178.5" y="525.8334350585938" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成订单号和支付信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="57.5" y="448" width="242" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="179.50000000000023" y="598.6111958821616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="103" y="526" width="153" height="50" as="geometry" />
+          <mxGeometry x="102" y="364" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-10" edge="1">
           <mxGeometry relative="1" as="geometry">
