@@ -639,12 +639,7 @@
           <mxGeometry x="99" y="315" width="95.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="387" width="125" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="MB6EJqWwBfSm_RXA_qot-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MB6EJqWwBfSm_RXA_qot-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.90499999999997" y="477.6479999999999" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="84" y="387" width="125" height="47" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-18" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="99" y="604" width="94" height="43" as="geometry" />
@@ -662,6 +657,9 @@
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-25" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="329" y="209" width="95.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zj-eWUbpBxw6OTmkliJW-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="397" width="125" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
