@@ -10,17 +10,11 @@
         <mxCell id="ZT0iayeXaEPY_oC1l36L-1" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="350" width="59.5" height="28.25" as="geometry" />
         </mxCell>
-        <mxCell id="ZT0iayeXaEPY_oC1l36L-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="291" y="370" width="28" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-3" value="退&lt;div&gt;换&lt;/div&gt;&lt;div&gt;货&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="460" width="30" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="ZT0iayeXaEPY_oC1l36L-4" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="505" y="318.25" width="28" height="148" as="geometry" />
-        </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="374" y="310" width="28" height="224.5" as="geometry" />
+          <mxGeometry x="358" y="320" width="28" height="224.5" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-6" value="订&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="460" width="30" height="108" as="geometry" />
