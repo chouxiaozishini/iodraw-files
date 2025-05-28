@@ -117,12 +117,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-1" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376.38" y="441" width="59.5" height="28.25" as="geometry" />
+          <mxGeometry x="432.95" y="441" width="59.5" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="444.7" y="255.56" width="36" height="463.13" as="geometry" />
         </mxCell>
-        <mxCell id="RYIL1wlrHTUkP7UtS-cc-9" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYIL1wlrHTUkP7UtS-cc-9" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;上&lt;/div&gt;&lt;div&gt;架&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="216" y="505" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-11" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
