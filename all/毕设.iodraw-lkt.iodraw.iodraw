@@ -531,7 +531,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eg4u5nf12WLnr6NVwB_s" name="4.2.5">
-    <mxGraphModel dx="805" dy="442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -681,6 +681,12 @@
         </mxCell>
         <mxCell id="ZOKHhLxST6HUv8P8BkBf-11" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="49" y="457" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOKHhLxST6HUv8P8BkBf-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="495" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOKHhLxST6HUv8P8BkBf-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="59" y="467" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
