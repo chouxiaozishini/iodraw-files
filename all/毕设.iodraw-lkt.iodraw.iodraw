@@ -352,11 +352,6 @@
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加商品到购物车&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="353" y="555" width="194" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lxS7QAua8BnG0fsJlUKj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="207.37999999999988" y="388.72218831380223" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;沙箱模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="132.63" y="319" width="144" height="50" as="geometry" />
         </mxCell>
