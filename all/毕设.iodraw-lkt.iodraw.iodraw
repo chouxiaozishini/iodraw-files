@@ -368,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="112" y="370" width="153" height="50" as="geometry" />
+          <mxGeometry x="102" y="370" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-10" edge="1">
           <mxGeometry relative="1" as="geometry">
