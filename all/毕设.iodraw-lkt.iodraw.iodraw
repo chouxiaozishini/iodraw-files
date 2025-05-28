@@ -576,11 +576,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zj-eWUbpBxw6OTmkliJW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.504;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1Z6egvQybNSEKzGqGXN0-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.5" y="581" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1Z6egvQybNSEKzGqGXN0-35" value="是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="82" y="477" width="135" height="81" as="geometry" />
         </mxCell>
