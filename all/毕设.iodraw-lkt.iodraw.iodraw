@@ -43,13 +43,10 @@
             <mxPoint x="260" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bIO0bLq3WoLToSIg_2cb-4" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356.25" y="251.75" width="59.5" height="28.25" as="geometry" />
-        </mxCell>
-        <mxCell id="bIO0bLq3WoLToSIg_2cb-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bIO0bLq3WoLToSIg_2cb-2" target="bIO0bLq3WoLToSIg_2cb-4">
+        <mxCell id="bIO0bLq3WoLToSIg_2cb-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bIO0bLq3WoLToSIg_2cb-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="228.25" y="241.75" as="sourcePoint" />
-            <mxPoint x="404.25" y="241.75" as="targetPoint" />
+            <mxPoint x="385.9999999999998" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bIO0bLq3WoLToSIg_2cb-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
@@ -71,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="epx_gfKJdoNsvRzIvS3Q-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="228" width="50" height="22" as="geometry" />
+          <mxGeometry x="361" y="248" width="50" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
