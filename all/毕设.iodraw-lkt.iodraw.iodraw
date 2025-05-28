@@ -489,8 +489,13 @@
         <mxCell id="xcENkug-bExoXaJ2T7Hz-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="362.5" y="848" width="91" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="ta0uknrSf-i3SMSDKvgm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcENkug-bExoXaJ2T7Hz-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495.9999999999998" y="474.0919820851293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xcENkug-bExoXaJ2T7Hz-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;系统将图片储存&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="360" y="401" width="170" height="50" as="geometry" />
+          <mxGeometry x="411" y="402" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ta0uknrSf-i3SMSDKvgm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ta0uknrSf-i3SMSDKvgm-1" target="xcENkug-bExoXaJ2T7Hz-1">
           <mxGeometry relative="1" as="geometry" />
