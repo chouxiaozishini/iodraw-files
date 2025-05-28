@@ -357,8 +357,8 @@
             <mxPoint x="207.37999999999988" y="388.72218831380223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="138.13" y="319" width="138.5" height="50" as="geometry" />
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;沙箱支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="138.13" y="319" width="109.87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-10" edge="1">
           <mxGeometry relative="1" as="geometry">
