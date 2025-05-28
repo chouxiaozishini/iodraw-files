@@ -8,7 +8,7 @@
           <mxGeometry x="612.63" y="390" width="82.75" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="641" y="352" width="28" height="157" as="geometry" />
+          <mxGeometry x="652" y="336" width="28" height="185" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-9" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="536" y="440" width="30" height="142" as="geometry" />
