@@ -14,7 +14,7 @@
           <mxGeometry x="536" y="440" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="bIO0bLq3WoLToSIg_2cb-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="297" width="106" height="40" as="geometry" />
+          <mxGeometry x="601" y="319" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bIO0bLq3WoLToSIg_2cb-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZT0iayeXaEPY_oC1l36L-1" target="bIO0bLq3WoLToSIg_2cb-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bIO0bLq3WoLToSIg_2cb-4" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356.25" y="251.75" width="59.5" height="28.25" as="geometry" />
+          <mxGeometry x="624.25" y="278" width="59.5" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="bIO0bLq3WoLToSIg_2cb-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bIO0bLq3WoLToSIg_2cb-2" target="bIO0bLq3WoLToSIg_2cb-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
