@@ -34,6 +34,36 @@
         <mxCell id="wFH28mfns6SB3MmuLmEv-11" value="评&lt;div&gt;价&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="293" width="30" height="108" as="geometry" />
         </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-1" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="350" width="59.5" height="28.25" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="372" y="359.25" width="28" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-3" value="购&lt;div&gt;买&lt;/div&gt;&lt;div&gt;商&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="406.25" width="30" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-4" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="372" y="318.25" width="28" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="372" y="280" width="28" height="224.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-6" value="加&lt;div&gt;入&lt;/div&gt;&lt;div&gt;购&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;车&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="406.25" width="30" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-7" value="退&lt;div&gt;换&lt;/div&gt;&lt;div&gt;货&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="448" y="406.25" width="30" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-8" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="406.25" width="30" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-9" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="406.25" width="30" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="0WQC_oBdkA14cbcYbjX6-10" value="评&lt;div&gt;价&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="406.25" width="30" height="108" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
