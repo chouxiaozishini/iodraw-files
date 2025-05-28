@@ -266,11 +266,8 @@
             <mxPoint x="263" y="513" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZgoSmfHTw4sX5mRM7Qb-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="187" y="489" width="33" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hZgoSmfHTw4sX5mRM7Qb-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;不存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="489" width="63" height="30" as="geometry" />
+        <mxCell id="hZgoSmfHTw4sX5mRM7Qb-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="489" width="28" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-23" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -338,6 +335,9 @@
         </mxCell>
         <mxCell id="edlHX0nXwtgwjYcN29DZ-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加商品到购物车&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="301" y="558" width="192" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fjX_e7c8_8MyVQVcmKWu-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="486" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
