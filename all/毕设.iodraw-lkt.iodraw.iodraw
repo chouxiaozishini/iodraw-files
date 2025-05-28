@@ -639,7 +639,7 @@
           <mxGeometry x="99" y="315" width="95.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="387" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="387" width="125" height="47" as="geometry" />
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MB6EJqWwBfSm_RXA_qot-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -651,12 +651,6 @@
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-19" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;修改成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="327" y="480" width="94" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="MB6EJqWwBfSm_RXA_qot-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="371" y="479" as="targetPoint" />
-            <mxPoint x="371.02857142857147" y="438" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="MB6EJqWwBfSm_RXA_qot-24" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;删除成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="553" width="94" height="43" as="geometry" />
