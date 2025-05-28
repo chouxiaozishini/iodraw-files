@@ -327,12 +327,6 @@
         <mxCell id="edlHX0nXwtgwjYcN29DZ-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;商品加入购物车&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="299" width="209" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="edlHX0nXwtgwjYcN29DZ-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成返回信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="181" y="688" width="156" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="edlHX0nXwtgwjYcN29DZ-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;返回修改结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="179" y="777" width="156" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="edlHX0nXwtgwjYcN29DZ-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="54" y="558" width="156" height="51" as="geometry" />
         </mxCell>
