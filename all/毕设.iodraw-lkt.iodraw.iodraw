@@ -514,6 +514,9 @@
         <mxCell id="ta0uknrSf-i3SMSDKvgm-5" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="494" y="370" width="30" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="ta0uknrSf-i3SMSDKvgm-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;上传成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="413" y="479" width="170" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
