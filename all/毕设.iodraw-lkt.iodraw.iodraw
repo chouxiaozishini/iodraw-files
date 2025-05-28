@@ -360,21 +360,17 @@
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;沙箱模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="134.5" y="301.33" width="144" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-10" edge="1">
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="177.75000000000023" y="675.8334350585938" as="targetPoint" />
+            <mxPoint x="177.83333333333348" y="651" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-10" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;返回支付结果&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="101.25" y="601" width="153" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-13" edge="1">
+        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="177.7550000000001" y="753.055623372396" as="targetPoint" />
+            <mxPoint x="177.83333333333348" y="726" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LzcIMA9KPx-sWlW2ZLeM-13" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;生成支付结果信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="78.88" y="676" width="197.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-15" target="LzcIMA9KPx-sWlW2ZLeM-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
