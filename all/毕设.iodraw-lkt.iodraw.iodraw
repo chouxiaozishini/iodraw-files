@@ -358,7 +358,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;模拟支付&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="109.25" y="360" width="138.5" height="50" as="geometry" />
+          <mxGeometry x="138.13" y="319" width="138.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LzcIMA9KPx-sWlW2ZLeM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LzcIMA9KPx-sWlW2ZLeM-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -398,10 +398,10 @@
         </mxCell>
         <mxCell id="lxS7QAua8BnG0fsJlUKj-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="323" y="283.67" as="sourcePoint" />
-            <mxPoint x="166" y="312.67" as="targetPoint" />
+            <mxPoint x="307" y="281" as="sourcePoint" />
+            <mxPoint x="205" y="318" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="221" y="285.67" />
+              <mxPoint x="205" y="283" />
             </Array>
           </mxGeometry>
         </mxCell>
