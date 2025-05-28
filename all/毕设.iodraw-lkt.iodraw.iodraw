@@ -38,7 +38,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kEvvt6SKM--qFKtu846Y" name="管理员功能图">
-    <mxGraphModel dx="901" dy="442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-11" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="505" width="30" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="RYIL1wlrHTUkP7UtS-cc-12" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="505" width="30" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
