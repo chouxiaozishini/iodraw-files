@@ -336,9 +336,6 @@
         <mxCell id="edlHX0nXwtgwjYcN29DZ-8" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;添加商品到购物车&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="301" y="558" width="192" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="fjX_e7c8_8MyVQVcmKWu-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="486" width="40" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
