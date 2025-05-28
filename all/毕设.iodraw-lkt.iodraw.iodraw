@@ -22,17 +22,14 @@
             <mxPoint x="247" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bIO0bLq3WoLToSIg_2cb-4" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="624.25" y="278" width="59.5" height="28.25" as="geometry" />
-        </mxCell>
-        <mxCell id="bIO0bLq3WoLToSIg_2cb-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bIO0bLq3WoLToSIg_2cb-2" target="bIO0bLq3WoLToSIg_2cb-4">
+        <mxCell id="bIO0bLq3WoLToSIg_2cb-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bIO0bLq3WoLToSIg_2cb-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="228.25" y="241.75" as="sourcePoint" />
-            <mxPoint x="404.25" y="241.75" as="targetPoint" />
+            <mxPoint x="654" y="306.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bIO0bLq3WoLToSIg_2cb-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="374" y="178" width="24" height="124.5" as="geometry" />
+          <mxGeometry x="647" y="168" width="24" height="124.5" as="geometry" />
         </mxCell>
         <mxCell id="bIO0bLq3WoLToSIg_2cb-8" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="30" height="108" as="geometry" />
