@@ -330,7 +330,7 @@
           <mxGeometry x="334.5" y="253.67000000000002" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_yJxMKDIm1yRBwOIcMI-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;库存是否充足&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220.5" y="161.67000000000002" width="174" height="103" as="geometry" />
+          <mxGeometry x="220.5" y="161.67" width="164.5" height="69.33" as="geometry" />
         </mxCell>
         <mxCell id="SQNrXNH5Un8MMlwuLVEN-2" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;用户提交订单&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="231" y="88" width="153" height="50" as="geometry" />
@@ -406,7 +406,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lxS7QAua8BnG0fsJlUKj-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;是否支付&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="413" width="174" height="103" as="geometry" />
+          <mxGeometry x="131.13" y="392" width="147" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
