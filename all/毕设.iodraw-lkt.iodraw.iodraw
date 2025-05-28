@@ -26,7 +26,7 @@
           <mxGeometry x="289" y="460" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-9" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="560" y="438" width="30" height="130" as="geometry" />
+          <mxGeometry x="560" y="438" width="30" height="132" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-10" value="人&lt;div&gt;员&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="460" width="30" height="108" as="geometry" />
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O6hyNpDiVrh4jXd7RahP-1" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="600" y="438" width="30" height="130" as="geometry" />
+          <mxGeometry x="600" y="438" width="30" height="132" as="geometry" />
         </mxCell>
         <mxCell id="O6hyNpDiVrh4jXd7RahP-2" value="退换管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="640" y="438" width="30" height="130" as="geometry" />
