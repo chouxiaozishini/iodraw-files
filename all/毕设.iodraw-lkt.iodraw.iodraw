@@ -656,8 +656,11 @@
         <mxCell id="Zj-eWUbpBxw6OTmkliJW-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;修改信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;metaEdit=0;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="308" y="396" width="125" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="ZOKHhLxST6HUv8P8BkBf-2" value="是否删除" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;metaEdit=0;" vertex="1" parent="1">
+        <mxCell id="ZOKHhLxST6HUv8P8BkBf-2" value="是否完整" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=23;metaEdit=0;" vertex="1" parent="1">
           <mxGeometry x="74" y="465" width="135" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOKHhLxST6HUv8P8BkBf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MB6EJqWwBfSm_RXA_qot-6" target="ZOKHhLxST6HUv8P8BkBf-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
