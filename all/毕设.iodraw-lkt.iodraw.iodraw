@@ -72,6 +72,9 @@
         <mxCell id="ZT0iayeXaEPY_oC1l36L-10" value="评&lt;div&gt;价&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="406.25" width="30" height="108" as="geometry" />
         </mxCell>
+        <mxCell id="bIO0bLq3WoLToSIg_2cb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
