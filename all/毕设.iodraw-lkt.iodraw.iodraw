@@ -434,8 +434,8 @@
             <mxPoint x="537.3000000000002" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzVYyWBbCTJYiypxt1Uz-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="295" y="205" width="100" height="100" as="geometry" />
+        <mxCell id="LzVYyWBbCTJYiypxt1Uz-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;是否删除&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="205" width="172" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
