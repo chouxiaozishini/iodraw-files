@@ -405,6 +405,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="lxS7QAua8BnG0fsJlUKj-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;库存是否充足&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120.38" y="390" width="174" height="103" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
