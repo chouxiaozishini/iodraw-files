@@ -258,7 +258,7 @@
           <mxGeometry x="224" y="445" width="33" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZgoSmfHTw4sX5mRM7Qb-17" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="402" y="451" width="33" height="30" as="geometry" />
+          <mxGeometry x="350" y="385" width="33" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fjX_e7c8_8MyVQVcmKWu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KOoBKHwKboquN8e2xBZ5-1">
           <mxGeometry relative="1" as="geometry">
@@ -290,7 +290,7 @@
         <mxCell id="edlHX0nXwtgwjYcN29DZ-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;商品加入购物车&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="299" width="209" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="edlHX0nXwtgwjYcN29DZ-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;调整商品数量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="edlHX0nXwtgwjYcN29DZ-7" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;加入成功&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="184" y="481" width="156" height="51" as="geometry" />
         </mxCell>
       </root>
