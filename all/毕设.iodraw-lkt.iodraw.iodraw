@@ -531,7 +531,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eg4u5nf12WLnr6NVwB_s" name="4.2.5">
-    <mxGraphModel dx="36" dy="20" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="157" dy="86" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -648,7 +648,7 @@
         <mxCell id="MB6EJqWwBfSm_RXA_qot-25" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;metaEdit=0;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="329" y="209" width="95.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Zj-eWUbpBxw6OTmkliJW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;metaEdit=0;fontSize=23;" edge="1" parent="1" source="Zj-eWUbpBxw6OTmkliJW-5">
+        <mxCell id="Zj-eWUbpBxw6OTmkliJW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;metaEdit=0;fontSize=23;entryX=0.5;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zj-eWUbpBxw6OTmkliJW-5" target="ZOKHhLxST6HUv8P8BkBf-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370.5" y="478.9047502790179" as="targetPoint" />
           </mxGeometry>
