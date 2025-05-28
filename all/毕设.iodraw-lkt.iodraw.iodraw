@@ -69,7 +69,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RYIL1wlrHTUkP7UtS-cc-1" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYIL1wlrHTUkP7UtS-cc-1" value="管理员端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="432.95" y="441" width="59.5" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
