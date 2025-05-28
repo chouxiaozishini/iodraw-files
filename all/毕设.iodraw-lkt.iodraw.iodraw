@@ -658,8 +658,13 @@
         <mxCell id="MB6EJqWwBfSm_RXA_qot-25" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;数码商城&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="329" y="209" width="95.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Zj-eWUbpBxw6OTmkliJW-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="397" width="125" height="47" as="geometry" />
+        <mxCell id="Zj-eWUbpBxw6OTmkliJW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zj-eWUbpBxw6OTmkliJW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.5" y="478.9047502790179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zj-eWUbpBxw6OTmkliJW-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;修改信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="396" width="125" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
