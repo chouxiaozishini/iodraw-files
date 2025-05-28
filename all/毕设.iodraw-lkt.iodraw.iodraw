@@ -38,39 +38,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="btvKuquJq8PI4OLr6DLa" name="管理员功能图">
-    <mxGraphModel dx="2012" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZT0iayeXaEPY_oC1l36L-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289.5" y="235" width="51" height="30" as="geometry" />
+          <mxGeometry x="360.5" y="348.25" width="51" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="301" y="246" width="28" height="66" as="geometry" />
+          <mxGeometry x="372" y="359.25" width="28" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-3" value="购&lt;div&gt;买&lt;/div&gt;&lt;div&gt;商&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="293" width="30" height="108" as="geometry" />
+          <mxGeometry x="404" y="406.25" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-4" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="301" y="205" width="28" height="148" as="geometry" />
+          <mxGeometry x="372" y="318.25" width="28" height="148" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="301" y="166.75" width="28" height="224.5" as="geometry" />
+          <mxGeometry x="372" y="280" width="28" height="224.5" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-6" value="加&lt;div&gt;入&lt;/div&gt;&lt;div&gt;购&lt;/div&gt;&lt;div&gt;物&lt;/div&gt;&lt;div&gt;车&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="267" y="293" width="30" height="108" as="geometry" />
+          <mxGeometry x="338" y="406.25" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-7" value="退&lt;div&gt;换&lt;/div&gt;&lt;div&gt;货&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="293" width="30" height="108" as="geometry" />
+          <mxGeometry x="448" y="406.25" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-8" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="293" width="30" height="108" as="geometry" />
+          <mxGeometry x="299" y="406.25" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-9" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="189" y="293" width="30" height="108" as="geometry" />
+          <mxGeometry x="260" y="406.25" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="ZT0iayeXaEPY_oC1l36L-10" value="评&lt;div&gt;价&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="293" width="30" height="108" as="geometry" />
+          <mxGeometry x="485" y="406.25" width="30" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
