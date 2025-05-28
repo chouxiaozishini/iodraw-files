@@ -68,7 +68,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O6hyNpDiVrh4jXd7RahP-1" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="570" y="448" width="30" height="130" as="geometry" />
+          <mxGeometry x="600" y="438" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="O6hyNpDiVrh4jXd7RahP-2" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="O6hyNpDiVrh4jXd7RahP-3" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="760" y="438" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
