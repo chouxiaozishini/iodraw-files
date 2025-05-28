@@ -93,8 +93,11 @@
         <mxCell id="bIO0bLq3WoLToSIg_2cb-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="374" y="178" width="24" height="124.5" as="geometry" />
         </mxCell>
-        <mxCell id="bIO0bLq3WoLToSIg_2cb-8" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bIO0bLq3WoLToSIg_2cb-8" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="30" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="bIO0bLq3WoLToSIg_2cb-9" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="30" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
