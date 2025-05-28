@@ -667,8 +667,11 @@
         <mxCell id="ZOKHhLxST6HUv8P8BkBf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MB6EJqWwBfSm_RXA_qot-6" target="ZOKHhLxST6HUv8P8BkBf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZOKHhLxST6HUv8P8BkBf-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="136" y="566" width="40" height="26" as="geometry" />
+        <mxCell id="ZOKHhLxST6HUv8P8BkBf-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="141" y="572" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOKHhLxST6HUv8P8BkBf-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119" y="460" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
