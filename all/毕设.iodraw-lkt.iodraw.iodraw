@@ -340,14 +340,11 @@
             <mxPoint x="406" y="233" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="397.32" y="532" width="13.37" height="113" as="geometry" />
-        </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-9" value="成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350.69" y="559" width="60" height="30" as="geometry" />
+          <mxGeometry x="276.56" y="537" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-10" value="失败" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="412" y="559" width="60" height="30" as="geometry" />
+          <mxGeometry x="475" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SNx_vq29inixbZ_lGZ1X-1" value="重新注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="544" y="466" width="21" height="64" as="geometry" />
@@ -389,9 +386,9 @@
         <mxCell id="lZZCf3sSkOplMOhhWx96-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册失败&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="532" y="597" width="122" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="lZZCf3sSkOplMOhhWx96-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Dj-gOMPD1Dk6pA1xmJbX-8" target="lZZCf3sSkOplMOhhWx96-4" edge="1">
+        <mxCell id="lZZCf3sSkOplMOhhWx96-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="lZZCf3sSkOplMOhhWx96-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="375" y="631" as="sourcePoint" />
+            <mxPoint x="404.0049999999999" y="581.815" as="sourcePoint" />
             <mxPoint x="425" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
