@@ -308,7 +308,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QNqFRhKJQl9ZHDvuOnHX" name="注册流程图">
-    <mxGraphModel dx="504" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="1292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,7 +347,7 @@
           <mxGeometry x="455" y="512" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SNx_vq29inixbZ_lGZ1X-1" value="重新注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="577" y="420" width="21" height="64" as="geometry" />
+          <mxGeometry x="540" y="422" width="21" height="64" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;填写信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="183" width="95.5" height="50" as="geometry" />
@@ -390,7 +390,7 @@
         <mxCell id="lZZCf3sSkOplMOhhWx96-10" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册成功&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="346" y="597" width="109" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="s9d2Ndk8WKo9evxBzSdV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZZCf3sSkOplMOhhWx96-11" target="lZZCf3sSkOplMOhhWx96-3">
+        <mxCell id="s9d2Ndk8WKo9evxBzSdV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lZZCf3sSkOplMOhhWx96-11" target="lZZCf3sSkOplMOhhWx96-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册失败&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
