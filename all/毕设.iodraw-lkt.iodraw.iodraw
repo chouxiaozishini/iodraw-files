@@ -169,7 +169,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="用户功能图" id="3b7DW6wrirqSFIrknnzy">
-    <mxGraphModel dx="1150" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="671" dy="368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,7 +186,7 @@
           <mxGeometry x="382" y="328.25" width="28" height="148" as="geometry" />
         </mxCell>
         <mxCell id="0WQC_oBdkA14cbcYbjX6-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="248.5" y="778" width="28" height="154.5" as="geometry" />
+          <mxGeometry x="248.75" y="777.75" width="28.5" height="155.5" as="geometry" />
         </mxCell>
         <mxCell id="0WQC_oBdkA14cbcYbjX6-17" value="退&lt;div&gt;换&lt;/div&gt;&lt;div&gt;货&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="426" y="758" width="30" height="108" as="geometry" />
@@ -225,7 +225,7 @@
           <mxGeometry x="220" y="870" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-9" value="购买商品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="284" y="870" width="30" height="142" as="geometry" />
+          <mxGeometry x="273" y="870" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-10" value="购买商品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="326" y="870" width="30" height="142" as="geometry" />
