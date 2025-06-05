@@ -82,13 +82,13 @@
           <mxGeometry x="374" y="908" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-12" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;牌&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="176" y="877" width="30" height="108" as="geometry" />
+          <mxGeometry x="569" y="901" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-13" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;格&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220.38" y="877" width="30" height="108" as="geometry" />
+          <mxGeometry x="613.38" y="901" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-14" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;采&lt;/div&gt;&lt;div&gt;购&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="262.13" y="877" width="30" height="108" as="geometry" />
+          <mxGeometry x="655.13" y="901" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-15" value="供&lt;div&gt;应&lt;/div&gt;&lt;div&gt;商&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="505" width="30" height="108" as="geometry" />
@@ -223,7 +223,7 @@
           <mxGeometry x="89" y="907" width="29" height="177" as="geometry" />
         </mxCell>
         <mxCell id="BN4jD4XT-IAjITJB-H0C-9" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;商&lt;/font&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;品&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;上&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;架&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="917" width="29" height="177" as="geometry" />
+          <mxGeometry x="266" y="883" width="29" height="177" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
