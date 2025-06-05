@@ -223,12 +223,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yoF8KmJ-6tSJFE5IhfEH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="585" y="387.06669921875005" as="targetPoint" />
-            <mxPoint x="585.0500000000002" y="346" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IMix-NAY96UZQ0lB04SR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQJBPsw7BwIm_Tznz3ci-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="406" y="355.3333740234375" as="targetPoint" />
@@ -273,6 +267,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="511.72" y="630" as="targetPoint" />
             <mxPoint x="512.0200000000002" y="602" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMix-NAY96UZQ0lB04SR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bspiov3gIEgAAimC4jG6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="588.25" y="371.3333740234375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bspiov3gIEgAAimC4jG6-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
