@@ -207,6 +207,9 @@
         <mxCell id="BN4jD4XT-IAjITJB-H0C-9" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;采&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;购&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="253" y="881" width="29" height="177" as="geometry" />
         </mxCell>
+        <mxCell id="BN4jD4XT-IAjITJB-H0C-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="398.19" y="596.81" width="28.88" height="208" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
