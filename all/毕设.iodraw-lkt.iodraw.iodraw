@@ -543,13 +543,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lxS7QAua8BnG0fsJlUKj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lxS7QAua8BnG0fsJlUKj-5" target="SQNrXNH5Un8MMlwuLVEN-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="618" />
+              <mxPoint x="242" y="345" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lxS7QAua8BnG0fsJlUKj-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;是否支付&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310.88" y="586.9999999999999" width="147" height="62" as="geometry" />
         </mxCell>
         <mxCell id="lxS7QAua8BnG0fsJlUKj-11" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="184.69" y="444" width="30" height="26" as="geometry" />
+          <mxGeometry x="248" y="441" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="lxS7QAua8BnG0fsJlUKj-12" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380.88" y="648.9999999999999" width="30" height="26" as="geometry" />
