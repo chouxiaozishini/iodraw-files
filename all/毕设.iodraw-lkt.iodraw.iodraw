@@ -169,7 +169,7 @@
           <mxGeometry x="324.06" y="706" width="30.34" height="140.25" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-5" value="退换管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="399" y="706" width="30" height="142" as="geometry" />
+          <mxGeometry x="387.18" y="706" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-6" value="轮播图管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="234" y="706" width="30" height="142" as="geometry" />
@@ -229,7 +229,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BN4jD4XT-IAjITJB-H0C-21" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="401.06" y="831.18" width="28" height="62.75" as="geometry" />
+          <mxGeometry x="388.18" y="830" width="28" height="62.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
