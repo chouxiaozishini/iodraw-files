@@ -160,7 +160,7 @@
           <mxGeometry x="304.43" y="645" width="82.75" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="325" y="519.71" width="28.88" height="342.19" as="geometry" />
+          <mxGeometry x="352.86" y="491.86" width="28.88" height="397.9" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-3" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="155" y="706" width="30" height="142" as="geometry" />
@@ -187,12 +187,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="402.58" y="691.16" as="sourcePoint" />
             <mxPoint x="402.58" y="703.16" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BN4jD4XT-IAjITJB-H0C-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.752;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="458.44" y="691.16" as="sourcePoint" />
-            <mxPoint x="458.44" y="703.16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BN4jD4XT-IAjITJB-H0C-6" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;分&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;类&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
