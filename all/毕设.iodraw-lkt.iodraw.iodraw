@@ -213,16 +213,16 @@
             <mxPoint x="458.44" y="703.16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BN4jD4XT-IAjITJB-H0C-6" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BN4jD4XT-IAjITJB-H0C-6" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;分&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;类&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="104" y="881" width="29" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="BN4jD4XT-IAjITJB-H0C-7" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;牌&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BN4jD4XT-IAjITJB-H0C-7" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;牌&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="151" y="881" width="29" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="BN4jD4XT-IAjITJB-H0C-8" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;格&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BN4jD4XT-IAjITJB-H0C-8" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;规&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;格&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="201" y="881" width="29" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="BN4jD4XT-IAjITJB-H0C-9" value="商&lt;div&gt;品&lt;/div&gt;&lt;div&gt;采&lt;/div&gt;&lt;div&gt;购&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BN4jD4XT-IAjITJB-H0C-9" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;采&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;购&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="253" y="881" width="29" height="177" as="geometry" />
         </mxCell>
       </root>
