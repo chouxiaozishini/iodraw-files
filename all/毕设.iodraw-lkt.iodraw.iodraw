@@ -151,7 +151,7 @@
           <mxGeometry x="324.79" y="519.93" width="28.88" height="341.76" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-3" value="商&lt;div style=&quot;font-size: 23px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="155" y="706" width="30" height="142" as="geometry" />
+          <mxGeometry x="158" y="706" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-4" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="324.06" y="706" width="30.34" height="140.25" as="geometry" />
