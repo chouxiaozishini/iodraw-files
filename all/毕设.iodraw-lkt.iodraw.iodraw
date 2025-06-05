@@ -65,12 +65,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kEvvt6SKM--qFKtu846Y" name="管理员功能图">
-    <mxGraphModel dx="2012" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-1" value="管理员端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="432.95" y="441" width="59.5" height="28.25" as="geometry" />
+          <mxGeometry x="432.95" y="388" width="59.5" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="444.7" y="255.56" width="36" height="463.13" as="geometry" />
