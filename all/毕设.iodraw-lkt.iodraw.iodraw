@@ -238,7 +238,7 @@
           <mxGeometry x="364.5" y="322" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQJBPsw7BwIm_Tznz3ci-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="424.5" y="324" width="60" height="30" as="geometry" />
+          <mxGeometry x="498" y="248" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yoF8KmJ-6tSJFE5IhfEH-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;验证账号密码&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="325.88" y="434" width="175.19" height="93" as="geometry" />
