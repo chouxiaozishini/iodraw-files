@@ -79,7 +79,7 @@
           <mxGeometry x="57" y="881" width="29" height="177" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-15" value="供&lt;div&gt;应&lt;/div&gt;&lt;div&gt;商&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="729" y="505" width="30" height="108" as="geometry" />
+          <mxGeometry x="554" y="875" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-16" value="订&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="499" width="30" height="108" as="geometry" />
@@ -94,10 +94,10 @@
           <mxGeometry x="266" y="499" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="HFQXrMqpw32J_aacSiRN-2" value="顾&lt;div&gt;客&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="638" y="505" width="30" height="108" as="geometry" />
+          <mxGeometry x="463" y="875" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="xACENbJ4TqV64GP-tpFL-2" value="角&lt;div&gt;色&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="679" y="505" width="30" height="108" as="geometry" />
+          <mxGeometry x="504" y="875" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="lJ4Dj8N74RsX4nA1Vr2t-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
