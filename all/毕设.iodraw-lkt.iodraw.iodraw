@@ -172,12 +172,12 @@
           <mxGeometry x="387.18" y="702.75" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-6" value="轮播图管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="240" y="702.75" width="30" height="142" as="geometry" />
+          <mxGeometry x="234" y="706" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-7" value="人员&lt;div style=&quot;font-size: 23px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="492.13" y="702.75" width="30" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="BN4jD4XT-IAjITJB-H0C-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="8fvvYyZffjUb-cOKQeJD-4">
+        <mxCell id="BN4jD4XT-IAjITJB-H0C-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="8fvvYyZffjUb-cOKQeJD-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="249" y="691" as="sourcePoint" />
             <mxPoint x="320" y="650" as="targetPoint" />
