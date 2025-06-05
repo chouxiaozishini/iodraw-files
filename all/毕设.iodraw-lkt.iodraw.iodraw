@@ -227,7 +227,7 @@
         <mxCell id="uzPkr3fZbrWb3pslPFii-9" value="加入购物车" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="273" y="870" width="30" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="uzPkr3fZbrWb3pslPFii-10" value="购买商品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="uzPkr3fZbrWb3pslPFii-10" value="退换货管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="326" y="870" width="30" height="142" as="geometry" />
         </mxCell>
       </root>
