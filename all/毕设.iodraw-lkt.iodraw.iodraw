@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kEvvt6SKM--qFKtu846Y" name="管理员功能图">
-    <mxGraphModel dx="671" dy="368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
           <mxGeometry x="180" y="350" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="304.43" y="645" width="82.75" height="28.25" as="geometry" />
+          <mxGeometry x="300" y="648" width="82.75" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="8fvvYyZffjUb-cOKQeJD-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="324.79" y="519.93" width="28.88" height="341.76" as="geometry" />
@@ -227,6 +227,9 @@
             <mxPoint x="339.33" y="691.16" as="sourcePoint" />
             <mxPoint x="339.33" y="706.16" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BN4jD4XT-IAjITJB-H0C-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="881" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
