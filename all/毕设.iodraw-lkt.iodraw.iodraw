@@ -480,7 +480,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;充足&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="300.06" y="471" width="48" height="30" as="geometry" />
+          <mxGeometry x="332.88" y="474" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nbztOuZGgZvdvijXqAUD-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;不充足&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="428.69" y="471" width="63" height="30" as="geometry" />
@@ -489,6 +489,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385.19499999999994" y="511.3333740234375" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hhkbol0dvHJPqhhL8L4o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_yJxMKDIm1yRBwOIcMI-1" target="LzcIMA9KPx-sWlW2ZLeM-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m_yJxMKDIm1yRBwOIcMI-1" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;库存是否充足&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="287.82" y="395" width="194.75" height="83" as="geometry" />
