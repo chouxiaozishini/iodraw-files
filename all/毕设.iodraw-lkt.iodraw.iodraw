@@ -238,7 +238,7 @@
           <mxGeometry x="407" y="875" width="29" height="177" as="geometry" />
         </mxCell>
         <mxCell id="BN4jD4XT-IAjITJB-H0C-24" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="496" y="827" width="28" height="68.75" as="geometry" />
+          <mxGeometry x="496.5" y="820" width="28" height="82.75" as="geometry" />
         </mxCell>
         <mxCell id="BN4jD4XT-IAjITJB-H0C-25" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;退&lt;/span&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;换&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;原&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;因&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;设&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="496" y="875" width="29" height="177" as="geometry" />
@@ -247,7 +247,7 @@
           <mxGeometry x="455" y="875" width="29" height="177" as="geometry" />
         </mxCell>
         <mxCell id="BN4jD4XT-IAjITJB-H0C-27" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;退&lt;/span&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;换&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;原&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;因&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;设&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="506" y="885" width="29" height="177" as="geometry" />
+          <mxGeometry x="537" y="875" width="29" height="177" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
