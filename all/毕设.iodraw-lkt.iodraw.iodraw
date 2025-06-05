@@ -344,7 +344,7 @@
           <mxGeometry x="354" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dj-gOMPD1Dk6pA1xmJbX-10" value="失败" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="484.5" y="488.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="459" y="513" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SNx_vq29inixbZ_lGZ1X-1" value="重新注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="577" y="420" width="21" height="64" as="geometry" />
@@ -389,7 +389,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册失败&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="535" y="541" width="122" height="43.5" as="geometry" />
+          <mxGeometry x="515" y="523" width="122" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZZCf3sSkOplMOhhWx96-13" edge="1">
           <mxGeometry relative="1" as="geometry">
