@@ -79,19 +79,19 @@
           <mxGeometry x="57" y="881" width="29" height="177" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-15" value="供&lt;div&gt;应&lt;/div&gt;&lt;div&gt;商&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="505" width="30" height="108" as="geometry" />
+          <mxGeometry x="729" y="505" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-16" value="订&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="471" y="505" width="30" height="108" as="geometry" />
+          <mxGeometry x="445" y="508" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-17" value="退&lt;div&gt;换&lt;/div&gt;&lt;div&gt;货&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="512" y="505" width="30" height="108" as="geometry" />
+          <mxGeometry x="486" y="508" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="RYIL1wlrHTUkP7UtS-cc-18" value="退&lt;div&gt;换&lt;/div&gt;&lt;div&gt;原&lt;/div&gt;&lt;div&gt;因&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="554" y="505" width="30" height="108" as="geometry" />
+          <mxGeometry x="528" y="508" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="HFQXrMqpw32J_aacSiRN-1" value="轮&lt;div&gt;播&lt;/div&gt;&lt;div&gt;图&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="597" y="505" width="30" height="108" as="geometry" />
+          <mxGeometry x="571" y="508" width="30" height="108" as="geometry" />
         </mxCell>
         <mxCell id="HFQXrMqpw32J_aacSiRN-2" value="顾&lt;div&gt;客&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="638" y="505" width="30" height="108" as="geometry" />
