@@ -308,7 +308,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QNqFRhKJQl9ZHDvuOnHX" name="注册流程图">
-    <mxGraphModel dx="609" dy="915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="348" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,6 +363,11 @@
         <mxCell id="lZZCf3sSkOplMOhhWx96-3" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册新账号&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="339" y="354" width="133" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="s9d2Ndk8WKo9evxBzSdV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZZCf3sSkOplMOhhWx96-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="592.2222900390625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;验证信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="343" y="518.5" width="122" height="43.5" as="geometry" />
         </mxCell>
@@ -385,12 +390,6 @@
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-11" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;注册失败&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="532" y="597" width="122" height="43.5" as="geometry" />
-        </mxCell>
-        <mxCell id="lZZCf3sSkOplMOhhWx96-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="lZZCf3sSkOplMOhhWx96-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="404.0049999999999" y="581.815" as="sourcePoint" />
-            <mxPoint x="425" y="581" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="lZZCf3sSkOplMOhhWx96-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZZCf3sSkOplMOhhWx96-13" edge="1">
           <mxGeometry relative="1" as="geometry">
