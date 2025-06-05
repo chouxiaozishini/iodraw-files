@@ -55,7 +55,7 @@
         <mxCell id="aGNsC6M8pRaToxxDFyXw-2" value="个人信息&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%95%86%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2023px%3B%26quot%3B%26gt%3B%E5%93%81%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2023px%3B%26quot%3B%26gt%3B%E7%AE%A1%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2023px%3B%26quot%3B%26gt%3B%E7%90%86%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D23%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22536%22%20y%3D%22440%22%20width%3D%2230%22%20height%3D%22142%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="373" y="128" width="30" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="aGNsC6M8pRaToxxDFyXw-3" value="购买商品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
+        <mxCell id="aGNsC6M8pRaToxxDFyXw-3" value="购物管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="436.5" y="128" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="aGNsC6M8pRaToxxDFyXw-4" value="评价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
@@ -174,40 +174,40 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0WQC_oBdkA14cbcYbjX6-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="248.75" y="777.75" width="28.5" height="155.5" as="geometry" />
+          <mxGeometry x="399.75" y="592.5" width="28.5" height="155.5" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="254.37" y="628.25" width="20.75" height="122.25" as="geometry" />
+          <mxGeometry x="405.37" y="443" width="20.75" height="122.25" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-2" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.491;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="uzPkr3fZbrWb3pslPFii-1" target="uzPkr3fZbrWb3pslPFii-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5" y="909" as="sourcePoint" />
-            <mxPoint x="5" y="889" as="targetPoint" />
+            <mxPoint x="156" y="723.75" as="sourcePoint" />
+            <mxPoint x="156" y="703.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="223.37" y="651" width="82.75" height="28.25" as="geometry" />
+          <mxGeometry x="374.37" y="465.75" width="82.75" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-4" value="个人信息&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%95%86%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2023px%3B%26quot%3B%26gt%3B%E5%93%81%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2023px%3B%26quot%3B%26gt%3B%E7%AE%A1%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2023px%3B%26quot%3B%26gt%3B%E7%90%86%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D23%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22536%22%20y%3D%22440%22%20width%3D%2230%22%20height%3D%22142%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="190" y="700" width="30" height="142" as="geometry" />
+          <mxGeometry x="341" y="514.75" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-5" value="购物管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="248.5" y="700" width="30" height="142" as="geometry" />
+          <mxGeometry x="399.5" y="514.75" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-6" value="评价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="309" y="700" width="30" height="142" as="geometry" />
+          <mxGeometry x="460" y="514.75" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-7" value="购买商品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="170" y="870" width="30" height="142" as="geometry" />
+          <mxGeometry x="321" y="684.75" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-8" value="商品浏览" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="220" y="870" width="30" height="142" as="geometry" />
+          <mxGeometry x="371" y="684.75" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-9" value="加入购物车" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="273" y="870" width="30" height="142" as="geometry" />
+          <mxGeometry x="424" y="684.75" width="30" height="142" as="geometry" />
         </mxCell>
         <mxCell id="uzPkr3fZbrWb3pslPFii-10" value="退换货管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="326" y="870" width="30" height="142" as="geometry" />
+          <mxGeometry x="477" y="684.75" width="30" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
